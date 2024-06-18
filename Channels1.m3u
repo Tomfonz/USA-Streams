@@ -1,0 +1,632 @@
+Toonami
+#EXTINF:-1 group-title="Toonami" tvg-id="Toonami Est",Toonami Aftermath Est
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1 group-title="Toonami" tvg-id="Toonami Pst",Toonami Aftermath Pst
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
+#EXTINF:-1 group-title="Toonami" tvg-id="Toonami Movies",Toonami Aftermath Movies
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Adult Swim East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="Toonami",Adult Swim East
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/AdultSwimEast.us.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="Adult Swim West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="Toonami",Adult Swim West
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/AdultSwimWest.us.m3u8
+#EXTINF:-1 group-title="Toonami" tvg-id="Venture Bros",The Venture Brothers 
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_4.m3u8
+#EXTINF:-1 group-title="Toonami" tvg-id="AdultSwimAquaTeenHungerForce.us",Adult Swim Aqua Teen Hunger Force (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+#EXTINF:-1 group-title="Toonami" tvg-id="AdultSwimRobotChicken.us",Adult Swim Robot Chicken (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+#EXTINF:-1 group-title="Toonami" tvg-id="RetroCrush", Retro Crush 720p
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-retrocrush-lgus/playlist.m3u8
+
+
+USA Channels:
+#EXTINF:-1 tvg-id="ABC 1.us" tvg-name="(ABC 1) New York City NY" tvg-logo="" group-title="LOCALS",(WABC) New York City NY
+http://thevdm.xyz:25461/Jennifer/Year!/85222
+#EXTINF:-1 tvg-id="ABC 2.us" tvg-name="(ABC 2) Syracuse NY" tvg-logo="" group-title="LOCALS",(WSYR) Syracuse NY
+http://thevdm.xyz:25461/Jennifer/Year!/85224
+#EXTINF:-1 tvg-id="CBS Boston" tvg-name="(CBS Boston) Boston MA" tvg-logo="" group-title="LOCALS",(WBZ) Boston MA
+http://thevdm.xyz:25461/Jennifer/Year!/85376
+#EXTINF:-1 tvg-id="CBSWCBS.us" tvg-name="(CBS NY) New York NY" tvg-logo="" group-title="LOCALS",(WCBS) New York NY
+http://thevdm.xyz:25461/Jennifer/Year!/85422
+#EXTINF:-1 tvg-id="FOXWNYW.us" tvg-name="(Fox NY) New York City NY" tvg-logo="" group-title="LOCALS",(WNYW) New York City NY
+http://thevdm.xyz:25461/Jennifer/Year!/85657
+#EXTINF:-1 tvg-id="FOXWSYT.us" tvg-name="(Fox Syra) Syracuse NY" tvg-logo="" group-title="LOCALS",(WSYT) Syracuse NY
+http://thevdm.xyz:25461/Jennifer/Year!/85659
+#EXTINF:-1 tvg-id="NBCKCRA.us" tvg-name="(NBC) Sacramento CA" tvg-logo="" group-title="LOCALS",(KCRA) Sacramento CA
+http://thevdm.xyz:25461/Jennifer/Year!/85755
+#EXTINF:-1 tvg-id="NBCWNBC.us" tvg-name="(NBC NY) New York City NY" tvg-logo="" group-title="LOCALS",(WNBC) New York City NY
+http://thevdm.xyz:25461/Jennifer/Year!/85863
+#EXTINF:-1 tvg-id="CWWPIX.us" tvg-name="CW (CW) NEW YORK" tvg-logo="http://onlytimewilltell.xyz:2086/images/9af3107a066f6b0defb1cafc0499f6ed.png" group-title="LOCALS",CW (WPIX) NEW YORK
+http://thevdm.xyz:25461/Jennifer/Year!/85977
+#EXTINF:-1 tvg-id="cw31kmax.us" tvg-name="CW (CW) SACRAMENTO CA" tvg-logo="http://onlytimewilltell.xyz:2086/images/9af3107a066f6b0defb1cafc0499f6ed.png" group-title="LOCALS",CW (KMAX) SACRAMENTO CA
+http://thevdm.xyz:25461/Jennifer/Year!/85986
+#EXTINF:-1 tvg-id="MYWNYO.us" tvg-name="MYNET (WNYO) BUFFALO" tvg-logo="http://onlytimewilltell.xyz:2086/images/d62d3aa6f51444a41e18e8be66a20bba.png" group-title="LOCALS",MYNET (WNYO) BUFFALO
+http://thevdm.xyz:25461/Jennifer/Year!/86007
+#EXTINF:-1 tvg-id="WGNWGN9.us" tvg-name="WGN 9 Chicago" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/wgn-america-us.png?raw=true" group-title="LOCALS",WGN 9 Chicago
+http://thevdm.xyz:25461/Jennifer/Year!/86817
+#EXTINF:-1 tvg-id="hbo-signature",HBO Signature group-title="LOCALS"
+http://170.254.18.106/HBO_SIG/index.m3u8
+#EXTINF:-1 tvg-id="HBOfam",HBO Family group-title="LOCALS"
+http://170.254.18.106/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="TBS" tvg-name="(L) TBS" tvg-logo="https://imgx.fubo.tv/station_logos/tbs_c.png" group-title="US LOW BANDWIDTH",(L) TBS
+http://thevdm.xyz:25461/Jennifer/Year!/44181
+#EXTINF:-1 tvg-id="TBS HD" tvg-name="TBS FHD" tvg-logo="https://imgx.fubo.tv/station_logos/tbs_c.png" group-title="US CHANNELS FHD",TBS FHD
+http://thevdm.xyz:25461/Jennifer/Year!/31462
+
+Good channels:
+#EXTINF:-1 tvg-id="AandENetwork.us" tvg-name="(L) A&E Network" tvg-logo="https://imgx.fubo.tv/station_logos/a_e_c.png" group-title="US LOW BANDWIDTH",(L) A&E Network
+http://thevdm.xyz:25461/Jennifer/Year!/43987
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="(L) ACC Network" tvg-logo="https://yt3.ggpht.com/WtLnNlZoxILqO-Ssv8nYMYbnt055xgHF7mxVaegVUZEG__gFKA6-H9MAF5Nal0yNPBA-Uie0nO8=ns-nd" group-title="US LOW BANDWIDTH",(L) ACC Network
+http://thevdm.xyz:25461/Jennifer/Year!/43988
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="(L) AMC Network" tvg-logo="https://imgx.fubo.tv/station_logos/amc_c.png" group-title="US LOW BANDWIDTH",(L) AMC Network
+http://thevdm.xyz:25461/Jennifer/Year!/43989
+#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="(L) American Heroes Channel" tvg-logo="https://imgx.fubo.tv/station_logos/american-heroes-channel_c.png" group-title="US LOW BANDWIDTH",(L) American Heroes Channel
+http://thevdm.xyz:25461/Jennifer/Year!/43990
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="(L) Animal Planet" tvg-logo="https://imgx.fubo.tv/station_logos/animal-planet_c.png" group-title="US LOW BANDWIDTH",(L) Animal Planet
+http://thevdm.xyz:25461/Jennifer/Year!/43991
+#EXTINF:-1 tvg-id="AnimalPlanetPacific.us" tvg-name="(L) Animal Planet (West)" tvg-logo="https://imgx.fubo.tv/station_logos/animal-planet_c.png" group-title="US LOW BANDWIDTH",(L) Animal Planet (West)
+http://thevdm.xyz:25461/Jennifer/Year!/43992
+#EXTINF:-1 tvg-id="AXSTV.us" tvg-name="(L) AXS TV" tvg-logo="" group-title="US LOW BANDWIDTH",(L) AXS TV
+http://thevdm.xyz:25461/Jennifer/Year!/43993
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="(L) BBC America" tvg-logo="https://imgx.fubo.tv/station_logos/bbc-america_c.png" group-title="US LOW BANDWIDTH",(L) BBC America
+http://thevdm.xyz:25461/Jennifer/Year!/43995
+#EXTINF:-1 tvg-id="BBCWorldNews.us" tvg-name="(L) BBC World News" tvg-logo="https://imgx.fubo.tv/station_logos/bbc-news_c.png" group-title="US LOW BANDWIDTH",(L) BBC World News
+http://thevdm.xyz:25461/Jennifer/Year!/43996
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="(L) beIN SPORTS" tvg-logo="https://imgx.fubo.tv/station_logos/bein_sports_english_c.png" group-title="US LOW BANDWIDTH",(L) beIN SPORTS
+http://thevdm.xyz:25461/Jennifer/Year!/43997
+#EXTINF:-1 tvg-id="BET.us" tvg-name="(L) BET" tvg-logo="https://imgx.fubo.tv/station_logos/bet_c.png" group-title="US LOW BANDWIDTH",(L) BET
+http://thevdm.xyz:25461/Jennifer/Year!/43998
+#EXTINF:-1 tvg-id="BETHer.us" tvg-name="(L) BET Her" tvg-logo="https://imgx.fubo.tv/station_logos/bet_her_c.png" group-title="US LOW BANDWIDTH",(L) BET Her
+http://thevdm.xyz:25461/Jennifer/Year!/44000
+#EXTINF:-1 tvg-id="BETJams.us" tvg-name="(L) BET Jams" tvg-logo="https://imgx.fubo.tv/station_logos/bet_jams_c.png" group-title="US LOW BANDWIDTH",(L) BET Jams
+http://thevdm.xyz:25461/Jennifer/Year!/44001
+#EXTINF:-1 tvg-id="BETSOUL.us" tvg-name="(L) BET Soul" tvg-logo="https://imgx.fubo.tv/station_logos/bet_soul_c.png" group-title="US LOW BANDWIDTH",(L) BET Soul
+http://thevdm.xyz:25461/Jennifer/Year!/44002
+#EXTINF:-1 tvg-id="BigTen.us" tvg-name="(L) Big Ten Network" tvg-logo="https://imgx.fubo.tv/station_logos/big_ten_c.png" group-title="US LOW BANDWIDTH",(L) Big Ten Network
+http://thevdm.xyz:25461/Jennifer/Year!/44003
+#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="(L) Bloomberg Television" tvg-logo="" group-title="US LOW BANDWIDTH",(L) Bloomberg Television
+http://thevdm.xyz:25461/Jennifer/Year!/44005
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="(L) Boomerang" tvg-logo="https://imgx.fubo.tv/station_logos/boomerang_c.png" group-title="US LOW BANDWIDTH",(L) Boomerang
+http://thevdm.xyz:25461/Jennifer/Year!/44006
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="(L) Bravo" tvg-logo="https://imgx.fubo.tv/station_logos/bravo_c.png" group-title="US LOW BANDWIDTH",(L) Bravo
+http://thevdm.xyz:25461/Jennifer/Year!/44007
+#EXTINF:-1 tvg-id="BravoPacific.us" tvg-name="(L) Bravo (West)" tvg-logo="https://imgx.fubo.tv/station_logos/bravo_c.png" group-title="US LOW BANDWIDTH",(L) Bravo (West)
+http://thevdm.xyz:25461/Jennifer/Year!/44008
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="(L) Cartoon Network" tvg-logo="https://imgx.fubo.tv/station_logos/cartoon-network_c.png" group-title="US LOW BANDWIDTH",(L) Cartoon Network
+http://thevdm.xyz:25461/Jennifer/Year!/44009
+#EXTINF:-1 tvg-id="CBSWCBS.us" tvg-name="(L) CBS" tvg-logo="https://imgx.fubo.tv/station_logos/wusa_n_c.png" group-title="US LOW BANDWIDTH",(L) CBS
+http://thevdm.xyz:25461/Jennifer/Year!/44010
+#EXTINF:-1 tvg-id="CBSNews.pluto" tvg-name="(L) CBS News" tvg-logo="https://imgx.fubo.tv/station_logos/cbs_news_c.png" group-title="US LOW BANDWIDTH",(L) CBS News
+http://thevdm.xyz:25461/Jennifer/Year!/44011
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="(L) CBSSN" tvg-logo="https://imgx.fubo.tv/station_logos/cbs_sn_c.png" group-title="US LOW BANDWIDTH",(L) CBSSN
+http://thevdm.xyz:25461/Jennifer/Year!/44012
+#EXTINF:-1 tvg-id="CMT.us" tvg-name="(L) CMT" tvg-logo="https://imgx.fubo.tv/station_logos/cmt_c.png" group-title="US LOW BANDWIDTH",(L) CMT
+http://thevdm.xyz:25461/Jennifer/Year!/44014
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="(L) CNBC" tvg-logo="https://imgx.fubo.tv/station_logos/cnbc_c.png" group-title="US LOW BANDWIDTH",(L) CNBC
+http://thevdm.xyz:25461/Jennifer/Year!/44015
+#EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="(L) CNBC World" tvg-logo="https://imgx.fubo.tv/station_logos/cnbc_world_c.png" group-title="US LOW BANDWIDTH",(L) CNBC World
+http://thevdm.xyz:25461/Jennifer/Year!/44016
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="(L) CNN" tvg-logo="https://imgx.fubo.tv/station_logos/cnn_c.png" group-title="US LOW BANDWIDTH",(L) CNN
+http://thevdm.xyz:25461/Jennifer/Year!/44017
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="(L) Comedy Central" tvg-logo="https://imgx.fubo.tv/station_logos/comedy_central_c.png" group-title="US LOW BANDWIDTH",(L) Comedy Central
+http://thevdm.xyz:25461/Jennifer/Year!/44018
+#EXTINF:-1 tvg-id="Comet.us" tvg-name="(L) Comet" tvg-logo="https://imgx.fubo.tv/station_logos/comet_c.png" group-title="US LOW BANDWIDTH",(L) Comet
+http://thevdm.xyz:25461/Jennifer/Year!/44020
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="(L) Cooking Channel" tvg-logo="https://imgx.fubo.tv/station_logos/cooking-channel_c.png" group-title="US LOW BANDWIDTH",(L) Cooking Channel
+http://thevdm.xyz:25461/Jennifer/Year!/44021
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="(L) Court TV" tvg-logo="https://yt3.ggpht.com/gWRInCuk84rLp1wOO2oSvwSg9y3w_JxaQJJRE8etH_Jx3r-5fxaOHZETjXasV3flxxEscNdHcpM=ns-nd" group-title="US LOW BANDWIDTH",(L) Court TV
+http://thevdm.xyz:25461/Jennifer/Year!/44022
+#EXTINF:-1 tvg-id="CoziTV.us" tvg-name="(L) Cozi" tvg-logo="https://imgx.fubo.tv/station_logos/cozi_tv_c.png" group-title="US LOW BANDWIDTH",(L) Cozi
+http://thevdm.xyz:25461/Jennifer/Year!/44023
+#EXTINF:-1 tvg-id="Dabl.us" tvg-name="(L) Dabl" tvg-logo="https://yt3.ggpht.com/EPhZ8cYeZnhQ9Lgz6bJj2jlmsjlEAMEHqwzvKBKRchidqLEWfT9pSRyH24NmRX5X4enGrSEuGxA=ns-nd" group-title="US LOW BANDWIDTH",(L) Dabl
+http://thevdm.xyz:25461/Jennifer/Year!/44024
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="(L) Destination America" tvg-logo="https://imgx.fubo.tv/station_logos/destination-america_c.png" group-title="US LOW BANDWIDTH",(L) Destination America
+http://thevdm.xyz:25461/Jennifer/Year!/44025
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="(L) Discovery" tvg-logo="https://imgx.fubo.tv/station_logos/discovery_c.png" group-title="US LOW BANDWIDTH",(L) Discovery
+http://thevdm.xyz:25461/Jennifer/Year!/44026
+#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="(L) Discovery Family Channel" tvg-logo="https://imgx.fubo.tv/station_logos/discovery-family-channel_c.png" group-title="US LOW BANDWIDTH",(L) Discovery Family Channel
+http://thevdm.xyz:25461/Jennifer/Year!/44028
+#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="(L) Discovery Life" tvg-logo="https://imgx.fubo.tv/station_logos/discovery-life_c.png" group-title="US LOW BANDWIDTH",(L) Discovery Life
+http://thevdm.xyz:25461/Jennifer/Year!/44029
+#EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="(L) Discovery Science" tvg-logo="https://imgx.fubo.tv/station_logos/science_c.png" group-title="US LOW BANDWIDTH",(L) Discovery Science
+http://thevdm.xyz:25461/Jennifer/Year!/44030
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="(L) Disney Channel" tvg-logo="https://yt3.ggpht.com/yNsmgQiL8l7PPsthDqPY9BR1fcHXBBKarWGe92xuDgzAoxIyz3Jx4aaTdq_xMCp6pbqfZq43oqKD3Q=ns-nd" group-title="US LOW BANDWIDTH",(L) Disney Channel
+http://thevdm.xyz:25461/Jennifer/Year!/44031
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="(L) Disney Junior" tvg-logo="https://yt3.ggpht.com/6OTDvOW9EZgIuLNxkfOmxXsrwMeMeOITdDPiXlq4_n9IEJqnSid__mGBDyI8R-nDxQbJbdmxjzBr=ns-nd" group-title="US LOW BANDWIDTH",(L) Disney Junior
+http://thevdm.xyz:25461/Jennifer/Year!/44032
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="(L) Disney XD" tvg-logo="https://yt3.ggpht.com/apfRUzeu0vC9219cc3_s_h-6j-COZAAytfQtrhKbzifd3B5Pe_YLvUza2aaHsIGmUPPX5p42R0c=ns-nd" group-title="US LOW BANDWIDTH",(L) Disney XD
+http://thevdm.xyz:25461/Jennifer/Year!/44033
+#EXTINF:-1 tvg-id="MagnoliaNetwork.us" tvg-name="(L) Magnolia Network" tvg-logo="https://i.ibb.co/1dTwjF0/magnolia-network.png" group-title="US LOW BANDWIDTH",(L) Magnolia Network
+http://thevdm.xyz:25461/Jennifer/Year!/44034
+#EXTINF:-1 tvg-id="EEntertainmentTelevision.us" tvg-name="(L) E! Entertainment Television" tvg-logo="https://imgx.fubo.tv/station_logos/e_c.png" group-title="US LOW BANDWIDTH",(L) E! Entertainment Television
+http://thevdm.xyz:25461/Jennifer/Year!/44036
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="(L) ESPN" tvg-logo="https://www.usasevens.com/las-vegas/files/2017/12/ESPN-Logo.png" group-title="US LOW BANDWIDTH",(L) ESPN
+http://thevdm.xyz:25461/Jennifer/Year!/44038
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="(L) ESPN 2" tvg-logo="https://yt3.ggpht.com/hwBIH6ajs0KRlc5PrxjfVCqh62ssKztUscHUFcEOynOUHUmndT40W-vyxoXNYX-WLSQb9Ek4z987Cg=ns-nd" group-title="US LOW BANDWIDTH",(L) ESPN 2
+http://thevdm.xyz:25461/Jennifer/Year!/44039
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="(L) ESPN News" tvg-logo="https://yt3.ggpht.com/Kk7H3buco9r6BhwouXzwSabe9saK6N7wohMVuvuae6k4ZYoXLNg_FxEG8CEC_XJ5vXVjDIqFDakFdw=ns-nd" group-title="US LOW BANDWIDTH",(L) ESPN News
+http://thevdm.xyz:25461/Jennifer/Year!/44040
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="(L) ESPN U" tvg-logo="https://yt3.ggpht.com/Eep5r-kg7T-GnAhEXfW1FFgLFZYMtzKSBkSO2Tssjs5lerjQwgAlmJTdo_nKOemRpmB570gzUz9AYw=ns-nd" group-title="US LOW BANDWIDTH",(L) ESPN U
+http://thevdm.xyz:25461/Jennifer/Year!/44041
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="(L) Food Network" tvg-logo="https://imgx.fubo.tv/station_logos/food_network_c.png" group-title="US LOW BANDWIDTH",(L) Food Network
+http://thevdm.xyz:25461/Jennifer/Year!/44043
+#EXTINF:-1 tvg-id="FoodNetworkPacific.us" tvg-name="(L) Food Network (West)" tvg-logo="https://imgx.fubo.tv/station_logos/food_network_c.png" group-title="US LOW BANDWIDTH",(L) Food Network (West)
+http://thevdm.xyz:25461/Jennifer/Year!/44044
+#EXTINF:-1 tvg-id="FOXWTTG.us" tvg-name="(L) FOX" tvg-logo="https://imgx.fubo.tv/station_logos/fox_new_c.png" group-title="US LOW BANDWIDTH",(L) FOX
+http://thevdm.xyz:25461/Jennifer/Year!/44045
+#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="(L) FOX Business Network" tvg-logo="https://imgx.fubo.tv/station_logos/foxbusiness_c.png" group-title="US LOW BANDWIDTH",(L) FOX Business Network
+http://thevdm.xyz:25461/Jennifer/Year!/44046
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="(L) FOX News Channel" tvg-logo="https://imgx.fubo.tv/station_logos/fox_news_c.png" group-title="US LOW BANDWIDTH",(L) FOX News Channel
+http://thevdm.xyz:25461/Jennifer/Year!/44047
+#EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-name="(L) FOX Soccer Plus" tvg-logo="https://imgx.fubo.tv/station_logos/fox_soccer_plus_c.png" group-title="US LOW BANDWIDTH",(L) FOX Soccer Plus
+http://thevdm.xyz:25461/Jennifer/Year!/44048
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="(L) FOX Sports 1" tvg-logo="https://imgx.fubo.tv/station_logos/fs1_c.png" group-title="US LOW BANDWIDTH",(L) FOX Sports 1
+http://thevdm.xyz:25461/Jennifer/Year!/44049
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="(L) FOX Sports 2" tvg-logo="https://imgx.fubo.tv/station_logos/fs2_c.png" group-title="US LOW BANDWIDTH",(L) FOX Sports 2
+http://thevdm.xyz:25461/Jennifer/Year!/44050
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="(L) Freeform" tvg-logo="https://yt3.ggpht.com/AuYeDRly4Zc9DclHKxhGATfuIh7Xp5U71xjtGdZnE9YfN6aEbh9S3ov02_N91ANGhueDtXtGd7U=ns-nd" group-title="US LOW BANDWIDTH",(L) Freeform
+http://thevdm.xyz:25461/Jennifer/Year!/44051
+#EXTINF:-1 tvg-id="Fuse.us" tvg-name="(L) Fuse" tvg-logo="https://imgx.fubo.tv/station_logos/fuse_c.png" group-title="US LOW BANDWIDTH",(L) Fuse
+http://thevdm.xyz:25461/Jennifer/Year!/44052
+#EXTINF:-1 tvg-id="FX.us" tvg-name="(L) FX" tvg-logo="https://yt3.ggpht.com/JrOxmfn_qOkPx-95hRfK7dxDAFdz8XyoMkZSpv-2qR0IxzZKFajjz-_n11WuVlIdUGqGuoqXAOVb=ns-nd" group-title="US LOW BANDWIDTH",(L) FX
+http://thevdm.xyz:25461/Jennifer/Year!/44053
+#EXTINF:-1 tvg-id="FXMovies.us" tvg-name="(L) FXM" tvg-logo="https://yt3.ggpht.com/-ciiAYu52E16j9n2x9kA5Y7hIx1p4_oF7jzNAJjnjNVfThXbRlC8JsSAu5AelhJjh-1jqOwdEALV=ns-nd" group-title="US LOW BANDWIDTH",(L) FXM
+http://thevdm.xyz:25461/Jennifer/Year!/44054
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="(L) FXX" tvg-logo="https://yt3.ggpht.com/nWUz5FbTXFWYF12_wutIBjPOL6U5cdidWZH7KWk56vMLD6V5le2iMgBacPMmLnbhrWO9NClQotDK=ns-nd" group-title="US LOW BANDWIDTH",(L) FXX
+http://thevdm.xyz:25461/Jennifer/Year!/44055
+#EXTINF:-1 tvg-id="FYIChannel.us" tvg-name="(L) FYI Channel" tvg-logo="https://imgx.fubo.tv/station_logos/fyi_c.png" group-title="US LOW BANDWIDTH",(L) FYI Channel
+http://thevdm.xyz:25461/Jennifer/Year!/44056
+#EXTINF:-1 tvg-id="GameShowNetwork.us" tvg-name="(L) Game Show Network" tvg-logo="https://imgx.fubo.tv/station_logos/game-show-network_c.png" group-title="US LOW BANDWIDTH",(L) Game Show Network
+http://thevdm.xyz:25461/Jennifer/Year!/44057
+#EXTINF:-1 tvg-id="getTV.us" tvg-name="(L) getTV" tvg-logo="https://imgx.fubo.tv/station_logos/getTV_c.png" group-title="US LOW BANDWIDTH",(L) getTV
+http://thevdm.xyz:25461/Jennifer/Year!/44058
+#EXTINF:-1 tvg-id="GOLTVespanol.us" tvg-name="(L) GolTV (English)" tvg-logo="https://imgx.fubo.tv/station_logos/goltv_english_c.png" group-title="US LOW BANDWIDTH",(L) GolTV (English)
+http://thevdm.xyz:25461/Jennifer/Year!/44060
+#EXTINF:-1 tvg-id="GreatAmericanFamily.us" tvg-name="(L) Great American Family" tvg-logo="https://imgx.fubo.tv/station_logos/Great_American_Country_c.png" group-title="US LOW BANDWIDTH",(L) Great American Family
+http://thevdm.xyz:25461/Jennifer/Year!/44061
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="(L) Hallmark Channel" tvg-logo="https://imgx.fubo.tv/station_logos/hallmark_channel_c.png" group-title="US LOW BANDWIDTH",(L) Hallmark Channel
+http://thevdm.xyz:25461/Jennifer/Year!/44062
+#EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="(L) Hallmark Drama" tvg-logo="https://imgx.fubo.tv/station_logos/hallmark-drama_c.png" group-title="US LOW BANDWIDTH",(L) Hallmark Drama
+http://thevdm.xyz:25461/Jennifer/Year!/44063
+#EXTINF:-1 tvg-id="HallmarkMoviesAndMysteries.us" tvg-name="(L) Hallmark Movies & Mysteries" tvg-logo="https://imgx.fubo.tv/station_logos/hallmark_movies_c.png" group-title="US LOW BANDWIDTH",(L) Hallmark Movies & Mysteries
+http://thevdm.xyz:25461/Jennifer/Year!/44064
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="(L) HGTV" tvg-logo="https://imgx.fubo.tv/station_logos/hgtv_c.png" group-title="US LOW BANDWIDTH",(L) HGTV
+http://thevdm.xyz:25461/Jennifer/Year!/44072
+#EXTINF:-1 tvg-id="HGTVPacific.us" tvg-name="(L) HGTV (West)" tvg-logo="https://imgx.fubo.tv/station_logos/hgtv_c.png" group-title="US LOW BANDWIDTH",(L) HGTV (West)
+http://thevdm.xyz:25461/Jennifer/Year!/44073
+#EXTINF:-1 tvg-id="History.us" tvg-name="(L) History Channel" tvg-logo="https://imgx.fubo.tv/station_logos/history_channel_c.png" group-title="US LOW BANDWIDTH",(L) History Channel
+http://thevdm.xyz:25461/Jennifer/Year!/44074
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="(L) HLN" tvg-logo="https://imgx.fubo.tv/station_logos/hln_c.png" group-title="US LOW BANDWIDTH",(L) HLN
+http://thevdm.xyz:25461/Jennifer/Year!/44075
+#EXTINF:-1 tvg-id="IFC.us" tvg-name="(L) IFC" tvg-logo="https://imgx.fubo.tv/station_logos/ifc_c.png" group-title="US LOW BANDWIDTH",(L) IFC
+http://thevdm.xyz:25461/Jennifer/Year!/44076
+#EXTINF:-1 tvg-id="INSP.us" tvg-name="(L) INSP" tvg-logo="https://imgx.fubo.tv/station_logos/insp_c.png" group-title="US LOW BANDWIDTH",(L) INSP
+http://thevdm.xyz:25461/Jennifer/Year!/44077
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="(L) Investigation Discovery" tvg-logo="https://imgx.fubo.tv/station_logos/investigation-discovery_c.png" group-title="US LOW BANDWIDTH",(L) Investigation Discovery
+http://thevdm.xyz:25461/Jennifer/Year!/44078
+#EXTINF:-1 tvg-id="LawAndCrime.us" tvg-name="(L) Law & Crime" tvg-logo="" group-title="US LOW BANDWIDTH",(L) Law & Crime
+http://thevdm.xyz:25461/Jennifer/Year!/44079
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="(L) Lifetime" tvg-logo="https://imgx.fubo.tv/station_logos/lifetime_c.png" group-title="US LOW BANDWIDTH",(L) Lifetime
+http://thevdm.xyz:25461/Jennifer/Year!/44080
+#EXTINF:-1 tvg-id="LifetimeMoviesNetwork.us" tvg-name="(L) Lifetime Movie Network" tvg-logo="https://imgx.fubo.tv/station_logos/lifetime_movie_network19_c.png" group-title="US LOW BANDWIDTH",(L) Lifetime Movie Network
+http://thevdm.xyz:25461/Jennifer/Year!/44081
+#EXTINF:-1 tvg-id="Logo.us" tvg-name="(L) Logo" tvg-logo="https://imgx.fubo.tv/station_logos/logo_c.png" group-title="US LOW BANDWIDTH",(L) Logo
+http://thevdm.xyz:25461/Jennifer/Year!/44082
+#EXTINF:-1 tvg-id="MavTV.us" tvg-name="(L) Mav TV" tvg-logo="https://imgx.fubo.tv/station_logos/mavtv_c.png" group-title="US LOW BANDWIDTH",(L) Mav TV
+http://thevdm.xyz:25461/Jennifer/Year!/44083
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="(L) MLB Network" tvg-logo="" group-title="US LOW BANDWIDTH",(L) MLB Network
+http://thevdm.xyz:25461/Jennifer/Year!/44084
+#EXTINF:-1 tvg-id="MOTORTREND.us" tvg-name="(L) MotorTrend" tvg-logo="https://imgx.fubo.tv/station_logos/motortrend_c.png" group-title="US LOW BANDWIDTH",(L) MotorTrend
+http://thevdm.xyz:25461/Jennifer/Year!/44085
+#EXTINF:-1 tvg-id="MSG.us" tvg-name="(L) MSG" tvg-logo="https://imgx.fubo.tv/station_logos/msg_c.png" group-title="US LOW BANDWIDTH",(L) MSG
+http://thevdm.xyz:25461/Jennifer/Year!/44086
+#EXTINF:-1 tvg-id="madisonsquaregardenplus.us" tvg-name="(L) MSG Plus" tvg-logo="https://imgx.fubo.tv/station_logos/msg_plus_c.png" group-title="US LOW BANDWIDTH",(L) MSG Plus
+http://thevdm.xyz:25461/Jennifer/Year!/44087
+#EXTINF:-1 tvg-id="MSG2.us" tvg-name="(L) MSG 2" tvg-logo="https://imgx.fubo.tv/station_logos/msg_c.png" group-title="US LOW BANDWIDTH",(L) MSG 2
+http://thevdm.xyz:25461/Jennifer/Year!/44088
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="(L) MSNBC" tvg-logo="https://imgx.fubo.tv/station_logos/msnbc_c.png" group-title="US LOW BANDWIDTH",(L) MSNBC
+http://thevdm.xyz:25461/Jennifer/Year!/44090
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="(L) MTV" tvg-logo="https://imgx.fubo.tv/station_logos/mtv_c.png" group-title="US LOW BANDWIDTH",(L) MTV
+http://thevdm.xyz:25461/Jennifer/Year!/44091
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="(L) MTV Classic" tvg-logo="https://imgx.fubo.tv/station_logos/mtv_classic_c.png" group-title="US LOW BANDWIDTH",(L) MTV Classic
+http://thevdm.xyz:25461/Jennifer/Year!/44092
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="(L) MTV Live" tvg-logo="https://imgx.fubo.tv/station_logos/mtv_live_c.png" group-title="US LOW BANDWIDTH",(L) MTV Live
+http://thevdm.xyz:25461/Jennifer/Year!/44093
+#EXTINF:-1 tvg-id="MTV2.us" tvg-name="(L) MTV2" tvg-logo="https://imgx.fubo.tv/station_logos/mtv2_c.png" group-title="US LOW BANDWIDTH",(L) MTV2
+http://thevdm.xyz:25461/Jennifer/Year!/44094
+#EXTINF:-1 tvg-id="mtvU.us" tvg-name="(L) MTVU" tvg-logo="https://imgx.fubo.tv/station_logos/mtvU_c.png" group-title="US LOW BANDWIDTH",(L) MTVU
+http://thevdm.xyz:25461/Jennifer/Year!/44096
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="(L) Nat Geo" tvg-logo="https://yt3.ggpht.com/bCJ_n4hJMJmMufe8N-ePSpKwIwDpfNwPfzi6vMnZs80hbJVKPVz9DnZ00OgsYZf-L8tnDZiRvE-l=ns-nd" group-title="US LOW BANDWIDTH",(L) Nat Geo
+http://thevdm.xyz:25461/Jennifer/Year!/44097
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="(L) Nat Geo Wild" tvg-logo="https://yt3.ggpht.com/xisIEC_0MPWjIr8G1OCfDIl1XaiIF_spi8dStNsLiEFhYav49TaBoXKtQbrBn-Lkg-mcZ8F4IaAh=ns-nd" group-title="US LOW BANDWIDTH",(L) Nat Geo Wild
+http://thevdm.xyz:25461/Jennifer/Year!/44098
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="(L) NBA TV" tvg-logo="https://imgx.fubo.tv/station_logos/nba_tv_c.png" group-title="US LOW BANDWIDTH",(L) NBA TV
+http://thevdm.xyz:25461/Jennifer/Year!/44099
+#EXTINF:-1 tvg-id="NBCWRC.us" tvg-name="(L) NBC" tvg-logo="https://imgx.fubo.tv/station_logos/nbc_c.png" group-title="US LOW BANDWIDTH",(L) NBC
+http://thevdm.xyz:25461/Jennifer/Year!/44100
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="(L) NBCSN Bay Area" tvg-logo="https://imgx.fubo.tv/station_logos/nbc-sports-bay-area_c.png" group-title="US LOW BANDWIDTH",(L) NBCSN Bay Area
+http://thevdm.xyz:25461/Jennifer/Year!/44102
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="(L) NBCSN Boston" tvg-logo="https://i.ibb.co/BsdJNzr/nbcsn-boston.png" group-title="US LOW BANDWIDTH",(L) NBCSN Boston
+http://thevdm.xyz:25461/Jennifer/Year!/44103
+#EXTINF:-1 tvg-id="NBCSportsCalifornia.us" tvg-name="(L) NBCSN California" tvg-logo="https://imgx.fubo.tv/station_logos/nbc-sports-california_c.png" group-title="US LOW BANDWIDTH",(L) NBCSN California
+http://thevdm.xyz:25461/Jennifer/Year!/44104
+#EXTINF:-1 tvg-id="NBCSportsChicago.us" tvg-name="(L) NBCSN Chicago" tvg-logo="https://i.ibb.co/K7G70MM/nbcsn-chicago.png" group-title="US LOW BANDWIDTH",(L) NBCSN Chicago
+http://thevdm.xyz:25461/Jennifer/Year!/44105
+#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us" tvg-name="(L) NBCSN Philly" tvg-logo="https://i.ibb.co/C2Msvhv/nbcsn-philadelphia.png" group-title="US LOW BANDWIDTH",(L) NBCSN Philly
+http://thevdm.xyz:25461/Jennifer/Year!/44107
+#EXTINF:-1 tvg-id="nbcsportnwashington.us" tvg-name="(L) NBCSN Washington" tvg-logo="https://i.ibb.co/QDSRVV1/nbcsn-washington.png" group-title="US LOW BANDWIDTH",(L) NBCSN Washington
+http://thevdm.xyz:25461/Jennifer/Year!/44108
+#EXTINF:-1 tvg-id="NEWSNATION.us" tvg-name="(L) NewsNation" tvg-logo="https://yt3.ggpht.com/63ZdXJsvaWkLZ7Jaev39ZspEYEpdz3d76y5MLKzUzJozKvMfSgzQN5ADE74Cr7T-NXmFYb4c-_QY-g=ns-nd" group-title="US LOW BANDWIDTH",(L) NewsNation
+http://thevdm.xyz:25461/Jennifer/Year!/44109
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-name="(L) Newsmax" tvg-logo="" group-title="US LOW BANDWIDTH",(L) Newsmax
+http://thevdm.xyz:25461/Jennifer/Year!/44110
+#EXTINF:-1 tvg-id="newsy.us" tvg-name="(L) Newsy" tvg-logo="https://imgx.fubo.tv/station_logos/newsy_c.png" group-title="US LOW BANDWIDTH",(L) Newsy
+http://thevdm.xyz:25461/Jennifer/Year!/44111
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="(L) NFL Network" tvg-logo="https://imgx.fubo.tv/station_logos/nfl_network_c.png" group-title="US LOW BANDWIDTH",(L) NFL Network
+http://thevdm.xyz:25461/Jennifer/Year!/44112
+#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="(L) NFL Redzone" tvg-logo="https://imgx.fubo.tv/station_logos/nfl_redzone_c.png" group-title="US LOW BANDWIDTH",(L) NFL Redzone
+http://thevdm.xyz:25461/Jennifer/Year!/44113
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="(L) NHL Network" tvg-logo="" group-title="US LOW BANDWIDTH",(L) NHL Network
+http://thevdm.xyz:25461/Jennifer/Year!/44114
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="(L) Nick Jr." tvg-logo="https://imgx.fubo.tv/station_logos/nickjr_c.png" group-title="US LOW BANDWIDTH",(L) Nick Jr.
+http://thevdm.xyz:25461/Jennifer/Year!/44115
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="(L) Nickelodeon" tvg-logo="https://imgx.fubo.tv/station_logos/nickelodeon_c.png" group-title="US LOW BANDWIDTH",(L) Nickelodeon
+http://thevdm.xyz:25461/Jennifer/Year!/44117
+#EXTINF:-1 tvg-id="NickMusic.us" tvg-name="(L) NickMusic" tvg-logo="https://imgx.fubo.tv/station_logos/teen_music_c.png" group-title="US LOW BANDWIDTH",(L) NickMusic
+http://thevdm.xyz:25461/Jennifer/Year!/44119
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="(L) Nicktoons" tvg-logo="https://imgx.fubo.tv/station_logos/nicktoons_c.png" group-title="US LOW BANDWIDTH",(L) Nicktoons
+http://thevdm.xyz:25461/Jennifer/Year!/44120
+#EXTINF:-1 tvg-id="olympicchannel.us" tvg-name="(L) Olympic Channel" tvg-logo="https://imgx.fubo.tv/station_logos/olympic_channel_c.png" group-title="US LOW BANDWIDTH",(L) Olympic Channel
+http://thevdm.xyz:25461/Jennifer/Year!/44121
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="(L) Outdoor Channel" tvg-logo="https://imgx.fubo.tv/station_logos/outhd_c.png" group-title="US LOW BANDWIDTH",(L) Outdoor Channel
+http://thevdm.xyz:25461/Jennifer/Year!/44122
+#EXTINF:-1 tvg-id="OutsideTelevision.us" tvg-name="(L) Outside TV" tvg-logo="https://imgx.fubo.tv/station_logos/outsidetv_c.png" group-title="US LOW BANDWIDTH",(L) Outside TV
+http://thevdm.xyz:25461/Jennifer/Year!/44123
+#EXTINF:-1 tvg-id="OWN.us" tvg-name="(L) OWN" tvg-logo="https://imgx.fubo.tv/station_logos/own_gold_c.png" group-title="US LOW BANDWIDTH",(L) OWN
+http://thevdm.xyz:25461/Jennifer/Year!/44124
+#EXTINF:-1 tvg-id="Oxygen.us" tvg-name="(L) Oxygen" tvg-logo="https://imgx.fubo.tv/station_logos/oxygen_c.png" group-title="US LOW BANDWIDTH",(L) Oxygen
+http://thevdm.xyz:25461/Jennifer/Year!/44125
+#EXTINF:-1 tvg-id="Pac12NetworkArizona.us" tvg-name="(L) Pac-12 Arizona" tvg-logo="https://imgx.fubo.tv/station_logos/pac-12-arizona_c.png" group-title="US LOW BANDWIDTH",(L) Pac-12 Arizona
+http://thevdm.xyz:25461/Jennifer/Year!/44127
+#EXTINF:-1 tvg-id="Pac12NetworkBayArea.us" tvg-name="(L) Pac-12 Bay Area" tvg-logo="https://imgx.fubo.tv/station_logos/pac-12-bay-area_c.png" group-title="US LOW BANDWIDTH",(L) Pac-12 Bay Area
+http://thevdm.xyz:25461/Jennifer/Year!/44128
+#EXTINF:-1 tvg-id="Pac12NetworkLosAngeles.us" tvg-name="(L) Pac-12 Los Angeles" tvg-logo="https://imgx.fubo.tv/station_logos/pac-12-los-angeles_c.png" group-title="US LOW BANDWIDTH",(L) Pac-12 Los Angeles
+http://thevdm.xyz:25461/Jennifer/Year!/44129
+#EXTINF:-1 tvg-id="Pac12NetworkMountain.us" tvg-name="(L) Pac-12 Mountain" tvg-logo="https://imgx.fubo.tv/station_logos/pac-12-mountain_c.png" group-title="US LOW BANDWIDTH",(L) Pac-12 Mountain
+http://thevdm.xyz:25461/Jennifer/Year!/44130
+#EXTINF:-1 tvg-id="Pac12Network.us" tvg-name="(L) Pac-12 Network" tvg-logo="https://imgx.fubo.tv/station_logos/pac-12-networks_c.png" group-title="US LOW BANDWIDTH",(L) Pac-12 Network
+http://thevdm.xyz:25461/Jennifer/Year!/44131
+#EXTINF:-1 tvg-id="Pac12NetworkOregon.us" tvg-name="(L) Pac-12 Oregon" tvg-logo="https://imgx.fubo.tv/station_logos/pac-12-oregon_c.png" group-title="US LOW BANDWIDTH",(L) Pac-12 Oregon
+http://thevdm.xyz:25461/Jennifer/Year!/44132
+#EXTINF:-1 tvg-id="Pac12NetworkWashington.us" tvg-name="(L) Pac-12 Washington" tvg-logo="https://imgx.fubo.tv/station_logos/pac-12-washington_c.png" group-title="US LOW BANDWIDTH",(L) Pac-12 Washington
+http://thevdm.xyz:25461/Jennifer/Year!/44133
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="(L) Paramount Network" tvg-logo="https://imgx.fubo.tv/station_logos/paramount_network_canada_c.png" group-title="US LOW BANDWIDTH",(L) Paramount Network
+http://thevdm.xyz:25461/Jennifer/Year!/44134
+#EXTINF:-1 tvg-id="peopletv.us" tvg-name="(L) People TV" tvg-logo="https://imgx.fubo.tv/station_logos/peopletv_c.png" group-title="US LOW BANDWIDTH",(L) People TV
+http://thevdm.xyz:25461/Jennifer/Year!/44135
+#EXTINF:-1 tvg-id="POP.us" tvg-name="(L) POP" tvg-logo="https://imgx.fubo.tv/station_logos/pop_c.png" group-title="US LOW BANDWIDTH",(L) POP
+http://thevdm.xyz:25461/Jennifer/Year!/44139
+#EXTINF:-1 tvg-id="PursuitChannel.us" tvg-name="(L) Pursuit Channel" tvg-logo="" group-title="US LOW BANDWIDTH",(L) Pursuit Channel
+http://thevdm.xyz:25461/Jennifer/Year!/44140
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="(L) QVC" tvg-logo="https://yt3.ggpht.com/gX7pm12u5LJhPMu7oZDIkYIwxz8-y84X4W9HLyUw7dziZcr7zUIBFDBIy7rpB7L1dVRcNrehG110-Q=ns-nd" group-title="US LOW BANDWIDTH",(L) QVC
+http://thevdm.xyz:25461/Jennifer/Year!/44141
+#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="(L) REELZ" tvg-logo="" group-title="US LOW BANDWIDTH",(L) REELZ
+http://thevdm.xyz:25461/Jennifer/Year!/44142
+#EXTINF:-1 tvg-id="Revolt.us" tvg-name="(L) REVOLT" tvg-logo="https://imgx.fubo.tv/station_logos/revolt_c.png" group-title="US LOW BANDWIDTH",(L) REVOLT
+http://thevdm.xyz:25461/Jennifer/Year!/44143
+#EXTINF:-1 tvg-id="RFDTV.us" tvg-name="(L) RFD-TV" tvg-logo="" group-title="US LOW BANDWIDTH",(L) RFD-TV
+http://thevdm.xyz:25461/Jennifer/Year!/44144
+#EXTINF:-1 tvg-id="a3cine.us" tvg-name="(L) Ride TV" tvg-logo="" group-title="US LOW BANDWIDTH",(L) Ride TV
+http://thevdm.xyz:25461/Jennifer/Year!/44145
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="(L) SEC Network" tvg-logo="https://yt3.ggpht.com/kMqSjG763OchzPQIJmWfBvBMk3YFC1XvIYkcnXyUT71TNIGdd4PWruyvQRXMIX1sT3Q4Dl_0o0FZEA=ns-nd" group-title="US LOW BANDWIDTH",(L) SEC Network
+http://thevdm.xyz:25461/Jennifer/Year!/44146
+#EXTINF:-1 tvg-id="SmithsonianNetwork.us" tvg-name="(L) Smithsonian Channel" tvg-logo="https://imgx.fubo.tv/station_logos/smithsonian_c.png" group-title="US LOW BANDWIDTH",(L) Smithsonian Channel
+http://thevdm.xyz:25461/Jennifer/Year!/44155
+#EXTINF:-1 tvg-id="SNY.us" tvg-name="(L) SNY" tvg-logo="https://imgx.fubo.tv/station_logos/sny_c.png" group-title="US LOW BANDWIDTH",(L) SNY
+http://thevdm.xyz:25461/Jennifer/Year!/44157
+#EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="(L) Sony Movie Channel" tvg-logo="https://imgx.fubo.tv/station_logos/sony-movie-channel_c.png" group-title="US LOW BANDWIDTH",(L) Sony Movie Channel
+http://thevdm.xyz:25461/Jennifer/Year!/44158
+#EXTINF:-1 tvg-id="SportsmanChannel.us" tvg-name="(L) Sportsman Channel" tvg-logo="https://imgx.fubo.tv/station_logos/spmnhd_c.png" group-title="US LOW BANDWIDTH",(L) Sportsman Channel
+http://thevdm.xyz:25461/Jennifer/Year!/44159
+#EXTINF:-1 tvg-id="COVID19" tvg-name="(L) SportsNet Southwest" tvg-logo="https://imgx.fubo.tv/station_logos/att-sportsnet_c.png" group-title="US LOW BANDWIDTH",(L) SportsNet Southwest
+http://thevdm.xyz:25461/Jennifer/Year!/44160
+#EXTINF:-1 tvg-id="StartTV.us" tvg-name="(L) Start TV" tvg-logo="https://yt3.ggpht.com/ml6B4HgaHwZsWENWKLB71HEEbGKAy-GTQI9KjTqd17gM8APP75Sm50wPHVZFrURUFn0_qUeWBAvV=ns-nd" group-title="US LOW BANDWIDTH",(L) Start TV
+http://thevdm.xyz:25461/Jennifer/Year!/44161
+#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="(L) SundanceTV" tvg-logo="https://imgx.fubo.tv/station_logos/sundance_c.png" group-title="US LOW BANDWIDTH",(L) SundanceTV
+http://thevdm.xyz:25461/Jennifer/Year!/44178
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="(L) Syfy" tvg-logo="https://imgx.fubo.tv/station_logos/syfy_c.png" group-title="US LOW BANDWIDTH",(L) Syfy
+http://thevdm.xyz:25461/Jennifer/Year!/44179
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="(L) TBS" tvg-logo="https://imgx.fubo.tv/station_logos/tbs_c.png" group-title="US LOW BANDWIDTH",(L) TBS
+http://thevdm.xyz:25461/Jennifer/Year!/44181
+#EXTINF:-1 tvg-id="TeenNick.us" tvg-name="(L) TeenNick" tvg-logo="https://imgx.fubo.tv/station_logos/teen_nick_c.png" group-title="US LOW BANDWIDTH",(L) TeenNick
+http://thevdm.xyz:25461/Jennifer/Year!/44182
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="(L) Tennis Channel" tvg-logo="https://imgx.fubo.tv/station_logos/tennis-channel_c.png" group-title="US LOW BANDWIDTH",(L) Tennis Channel
+http://thevdm.xyz:25461/Jennifer/Year!/44185
+#EXTINF:-1 tvg-id="TheCowboyChannel.us" tvg-name="(L) The Cowboy Channel" tvg-logo="" group-title="US LOW BANDWIDTH",(L) The Cowboy Channel
+http://thevdm.xyz:25461/Jennifer/Year!/44186
+#EXTINF:-1 tvg-id="FightNetwork.us" tvg-name="(L) The Fight Network" tvg-logo="https://imgx.fubo.tv/station_logos/fight_network_c.png" group-title="US LOW BANDWIDTH",(L) The Fight Network
+http://thevdm.xyz:25461/Jennifer/Year!/44187
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="(L) The Golf Channel" tvg-logo="https://imgx.fubo.tv/station_logos/the_golf_channel_c.png" group-title="US LOW BANDWIDTH",(L) The Golf Channel
+http://thevdm.xyz:25461/Jennifer/Year!/44188
+#EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="(L) The Weather Channel" tvg-logo="https://imgx.fubo.tv/station_logos/the_weather_channel_c.png" group-title="US LOW BANDWIDTH",(L) The Weather Channel
+http://thevdm.xyz:25461/Jennifer/Year!/44189
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="(L) TLC" tvg-logo="https://imgx.fubo.tv/station_logos/tlc_c.png" group-title="US LOW BANDWIDTH",(L) TLC
+http://thevdm.xyz:25461/Jennifer/Year!/44190
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="(L) TNT" tvg-logo="https://imgx.fubo.tv/station_logos/tnt_c.png" group-title="US LOW BANDWIDTH",(L) TNT
+http://thevdm.xyz:25461/Jennifer/Year!/44192
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="(L) Travel Channel" tvg-logo="https://imgx.fubo.tv/station_logos/travel_channel_c.png" group-title="US LOW BANDWIDTH",(L) Travel Channel
+http://thevdm.xyz:25461/Jennifer/Year!/44193
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="(L) truTV" tvg-logo="https://imgx.fubo.tv/station_logos/tru_c.png" group-title="US LOW BANDWIDTH",(L) truTV
+http://thevdm.xyz:25461/Jennifer/Year!/44195
+#EXTINF:-1 tvg-id="TCM.us" tvg-name="(L) Turner Classic Movies" tvg-logo="https://imgx.fubo.tv/station_logos/tcm_c.png" group-title="US LOW BANDWIDTH",(L) Turner Classic Movies
+http://thevdm.xyz:25461/Jennifer/Year!/44196
+#EXTINF:-1 tvg-id="TVLand.us" tvg-name="(L) TV Land" tvg-logo="https://imgx.fubo.tv/station_logos/tv_land_c.png" group-title="US LOW BANDWIDTH",(L) TV Land
+http://thevdm.xyz:25461/Jennifer/Year!/44197
+#EXTINF:-1 tvg-id="a3cine.us" tvg-name="(L) TVG" tvg-logo="https://imgx.fubo.tv/station_logos/tvg_c.png" group-title="US LOW BANDWIDTH",(L) TVG
+http://thevdm.xyz:25461/Jennifer/Year!/44199
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="(L) TVG2" tvg-logo="https://imgx.fubo.tv/station_logos/tvg2_c.png" group-title="US LOW BANDWIDTH",(L) TVG2
+http://thevdm.xyz:25461/Jennifer/Year!/44200
+#EXTINF:-1 tvg-id="UniversalKids.us" tvg-name="(L) Universal Kids" tvg-logo="https://imgx.fubo.tv/station_logos/universal_kids_c.png" group-title="US LOW BANDWIDTH",(L) Universal Kids
+http://thevdm.xyz:25461/Jennifer/Year!/44202
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="(L) USA Network" tvg-logo="https://imgx.fubo.tv/station_logos/usa_c.png" group-title="US LOW BANDWIDTH",(L) USA Network
+http://thevdm.xyz:25461/Jennifer/Year!/44204
+#EXTINF:-1 tvg-id="USANetworkPacific.us" tvg-name="(L) USA Network (West)" tvg-logo="https://imgx.fubo.tv/station_logos/usa_c.png" group-title="US LOW BANDWIDTH",(L) USA Network (West)
+http://thevdm.xyz:25461/Jennifer/Year!/44205
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="(L) VH1" tvg-logo="https://imgx.fubo.tv/station_logos/vh1_c.png" group-title="US LOW BANDWIDTH",(L) VH1
+http://thevdm.xyz:25461/Jennifer/Year!/44206
+#EXTINF:-1 tvg-id="Vice.us" tvg-name="(L) Viceland" tvg-logo="https://imgx.fubo.tv/station_logos/viceland_c.png" group-title="US LOW BANDWIDTH",(L) Viceland
+http://thevdm.xyz:25461/Jennifer/Year!/44208
+#EXTINF:-1 tvg-id="VSIN.us" tvg-name="(L) VSIN" tvg-logo="https://imgx.fubo.tv/station_logos/vsin_c.png" group-title="US LOW BANDWIDTH",(L) VSIN
+http://thevdm.xyz:25461/Jennifer/Year!/44209
+#EXTINF:-1 tvg-id="WeTV.us" tvg-name="(L) WE tv" tvg-logo="https://imgx.fubo.tv/station_logos/we-tv_c.png" group-title="US LOW BANDWIDTH",(L) WE tv
+http://thevdm.xyz:25461/Jennifer/Year!/44210
+#EXTINF:-1 tvg-id="WorldFishingNetwork.us" tvg-name="(L) World Fishing Network" tvg-logo="https://imgx.fubo.tv/station_logos/wfn_c.png" group-title="US LOW BANDWIDTH",(L) World Fishing Network
+http://thevdm.xyz:25461/Jennifer/Year!/44211
+#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="(L) YES NETWORK" tvg-logo="" group-title="US LOW BANDWIDTH",(L) YES NETWORK
+http://thevdm.xyz:25461/Jennifer/Year!/44212
+
+Movies:
+
+#EXTINF:-1 tvg-id="CineMAX.us" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/h810dLX/cinemax-us.png" group-title="MOVIE NETWORKS",Cinemax
+http://thevdm.xyz:25461/Jennifer/Year!/52157
+#EXTINF:-1 tvg-id="CineMAXPacific.us" tvg-name="Cinemax West" tvg-logo="https://i.ibb.co/h810dLX/cinemax-us.png" group-title="MOVIE NETWORKS",Cinemax West
+http://thevdm.xyz:25461/Jennifer/Year!/52158
+#EXTINF:-1 tvg-id="CinemaxSpanish.us" tvg-name="Cinemax Latino" tvg-logo="https://cdn.diablo.ltd/logos/CinemaxLatinoUS.png" group-title="MOVIE NETWORKS",Cinemax Latino
+http://thevdm.xyz:25461/Jennifer/Year!/52159
+#EXTINF:-1 tvg-id="Cinemax5StarMAX.us" tvg-name="5StarMax" tvg-logo="https://i.ibb.co/dBPShyM/cinemax-5-starmax.png" group-title="MOVIE NETWORKS",5StarMax
+http://thevdm.xyz:25461/Jennifer/Year!/52160
+#EXTINF:-1 tvg-id="ActionMAX.us" tvg-name="ActionMax" tvg-logo="https://i.ibb.co/jrDBL5v/cinemax-actionmax.png" group-title="MOVIE NETWORKS",ActionMax
+http://thevdm.xyz:25461/Jennifer/Year!/52161
+#EXTINF:-1 tvg-id="ActionMaxPacific.us" tvg-name="ActionMax West" tvg-logo="https://i.ibb.co/jrDBL5v/cinemax-actionmax.png" group-title="MOVIE NETWORKS",ActionMax West
+http://thevdm.xyz:25461/Jennifer/Year!/52162
+#EXTINF:-1 tvg-id="MoreMax.us" tvg-name="MoreMax" tvg-logo="https://i.ibb.co/9vxKFL2/cinemax-moremax.png" group-title="MOVIE NETWORKS",MoreMax
+http://thevdm.xyz:25461/Jennifer/Year!/52163
+#EXTINF:-1 tvg-id="MoreMAXPacific.us" tvg-name="MoreMax West" tvg-logo="https://i.ibb.co/9vxKFL2/cinemax-moremax.png" group-title="MOVIE NETWORKS",MoreMax West
+http://thevdm.xyz:25461/Jennifer/Year!/52164
+#EXTINF:-1 tvg-id="MovieMax.us" tvg-name="MovieMax" tvg-logo="https://i.ibb.co/JdDwPdD/cinemax-moviemax.png" group-title="MOVIE NETWORKS",MovieMax
+http://thevdm.xyz:25461/Jennifer/Year!/52165
+#EXTINF:-1 tvg-id="OuterMAX.us" tvg-name="OuterMax" tvg-logo="https://i.ibb.co/9tt9ysz/cinemax-outermax.png" group-title="MOVIE NETWORKS",OuterMax
+http://thevdm.xyz:25461/Jennifer/Year!/52166
+#EXTINF:-1 tvg-id="ThrillerMAX.us" tvg-name="ThrillerMax" tvg-logo="https://i.ibb.co/yBMwt78/cinemax-thrillermax.png" group-title="MOVIE NETWORKS",ThrillerMax
+http://thevdm.xyz:25461/Jennifer/Year!/52167
+#EXTINF:-1 tvg-id="ThrillerMAXPacific.us" tvg-name="ThrillerMax West" tvg-logo="https://i.ibb.co/yBMwt78/cinemax-thrillermax.png" group-title="MOVIE NETWORKS",ThrillerMax West
+http://thevdm.xyz:25461/Jennifer/Year!/52168
+#EXTINF:-1 tvg-id="MGM+.us" tvg-name="Epix" tvg-logo="https://i.ibb.co/G24Cfrr/epix.png" group-title="MOVIE NETWORKS",Epix
+http://thevdm.xyz:25461/Jennifer/Year!/52169
+#EXTINF:-1 tvg-id="MGM+Pacific.us" tvg-name="Epix West" tvg-logo="https://i.ibb.co/G24Cfrr/epix.png" group-title="MOVIE NETWORKS",Epix West
+http://thevdm.xyz:25461/Jennifer/Year!/52170
+#EXTINF:-1 tvg-id="MGM+Hits.us" tvg-name="Epix 2" tvg-logo="https://i.ibb.co/Qnd9gC2/epix2.png" group-title="MOVIE NETWORKS",Epix 2
+http://thevdm.xyz:25461/Jennifer/Year!/52171
+#EXTINF:-1 tvg-id="MGM+DriveIn.us" tvg-name="Epix Drive-in" tvg-logo="https://i.ibb.co/7bGhYSM/epix-drive-in-us.png" group-title="MOVIE NETWORKS",Epix Drive-in
+http://thevdm.xyz:25461/Jennifer/Year!/52172
+#EXTINF:-1 tvg-id="MGM+Marquee.us" tvg-name="Epix Hits" tvg-logo="https://i.ibb.co/fMtS9mB/epix-hits-us.png" group-title="MOVIE NETWORKS",Epix Hits
+http://thevdm.xyz:25461/Jennifer/Year!/52173
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/mHjbJW6/hbo-east.png" group-title="MOVIE NETWORKS",HBO
+http://thevdm.xyz:25461/Jennifer/Year!/52174
+#EXTINF:-1 tvg-id="HBOPacific.us" tvg-name="HBO West" tvg-logo="https://i.ibb.co/q02tRJ4/hbo.png" group-title="MOVIE NETWORKS",HBO West
+http://thevdm.xyz:25461/Jennifer/Year!/52175
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO2" tvg-logo="https://i.ibb.co/bLd6NsS/hbo-2-east.png" group-title="MOVIE NETWORKS",HBO2
+http://thevdm.xyz:25461/Jennifer/Year!/52176
+#EXTINF:-1 tvg-id="HBO2Pacific.us" tvg-name="HBO2 West" tvg-logo="https://i.ibb.co/0Qtr34t/hbo-2-west.png" group-title="MOVIE NETWORKS",HBO2 West
+http://thevdm.xyz:25461/Jennifer/Year!/52177
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBO Comedy" tvg-logo="https://i.ibb.co/85WGvRv/hbo-comedy-east.png" group-title="MOVIE NETWORKS",HBO Comedy
+http://thevdm.xyz:25461/Jennifer/Year!/52178
+#EXTINF:-1 tvg-id="HBOComedyPacific.us" tvg-name="HBO Comedy West" tvg-logo="https://i.ibb.co/mvrBQwG/hbo-comedy-west.png" group-title="MOVIE NETWORKS",HBO Comedy West
+http://thevdm.xyz:25461/Jennifer/Year!/52179
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/8xDfMX6/hbo-family-east.png" group-title="MOVIE NETWORKS",HBO Family
+http://thevdm.xyz:25461/Jennifer/Year!/52180
+#EXTINF:-1 tvg-id="HBOFamilyPacific.us" tvg-name="HBO Family West" tvg-logo="https://i.ibb.co/37WDjzL/hbo-family-west.png" group-title="MOVIE NETWORKS",HBO Family West
+http://thevdm.xyz:25461/Jennifer/Year!/52181
+#EXTINF:-1 tvg-id="HBOLatino.us" tvg-name="HBO Latino" tvg-logo="https://i.ibb.co/dQ6nLgJ/hbo-latino-east.png" group-title="MOVIE NETWORKS",HBO Latino
+http://thevdm.xyz:25461/Jennifer/Year!/52182
+#EXTINF:-1 tvg-id="HBOLatinoPacific.us" tvg-name="HBO Latino West" tvg-logo="https://i.ibb.co/9Y1Rmtx/hbo-latino-west.png" group-title="MOVIE NETWORKS",HBO Latino West
+http://thevdm.xyz:25461/Jennifer/Year!/52183
+#EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/fXFK9GV/hbo-signature-east.png" group-title="MOVIE NETWORKS",HBO Signature
+http://thevdm.xyz:25461/Jennifer/Year!/52184
+#EXTINF:-1 tvg-id="HBOSignaturePacific.us" tvg-name="HBO Signature West" tvg-logo="https://i.ibb.co/k6Yt9rV/hbo-signature-west.png" group-title="MOVIE NETWORKS",HBO Signature West
+http://thevdm.xyz:25461/Jennifer/Year!/52185
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="HBO Zone" tvg-logo="https://i.ibb.co/StpK73S/hbo-zone-east.png" group-title="MOVIE NETWORKS",HBO Zone
+http://thevdm.xyz:25461/Jennifer/Year!/52186
+#EXTINF:-1 tvg-id="HBOZonePacific.us" tvg-name="HBO Zone West" tvg-logo="https://i.ibb.co/Ky5QgKD/hbo-zone-west.png" group-title="MOVIE NETWORKS",HBO Zone West
+http://thevdm.xyz:25461/Jennifer/Year!/52187
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="Showtime" tvg-logo="https://i.ibb.co/9wyhp92/showtime-icon-us.png" group-title="MOVIE NETWORKS",Showtime
+http://thevdm.xyz:25461/Jennifer/Year!/52188
+#EXTINF:-1 tvg-id="ShowtimePacific.us" tvg-name="Showtime West" tvg-logo="https://i.ibb.co/9wyhp92/showtime-icon-us.png" group-title="MOVIE NETWORKS",Showtime West
+http://thevdm.xyz:25461/Jennifer/Year!/52189
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="Showtime 2" tvg-logo="https://i.ibb.co/yNZ7vcf/showtime-2-us.png" group-title="MOVIE NETWORKS",Showtime 2
+http://thevdm.xyz:25461/Jennifer/Year!/52190
+#EXTINF:-1 tvg-id="Showtime2Pacific.us" tvg-name="Showtime 2 West" tvg-logo="https://i.ibb.co/yNZ7vcf/showtime-2-us.png" group-title="MOVIE NETWORKS",Showtime 2 West
+http://thevdm.xyz:25461/Jennifer/Year!/52191
+#EXTINF:-1 tvg-id="SHOxBET.us" tvg-name="SHOxBET" tvg-logo="https://i.ibb.co/r78wDzC/sho-bet-us.png" group-title="MOVIE NETWORKS",SHOxBET
+http://thevdm.xyz:25461/Jennifer/Year!/52192
+#EXTINF:-1 tvg-id="SHOxBETPacific.us" tvg-name="SHOxBET West" tvg-logo="https://i.ibb.co/r78wDzC/sho-bet-us.png" group-title="MOVIE NETWORKS",SHOxBET West
+http://thevdm.xyz:25461/Jennifer/Year!/52193
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="Showtime Extreme" tvg-logo="https://i.ibb.co/xjF3p0M/showtime-extreme-us.png" group-title="MOVIE NETWORKS",Showtime Extreme
+http://thevdm.xyz:25461/Jennifer/Year!/52194
+#EXTINF:-1 tvg-id="ShowtimeExtremePacific.us" tvg-name="Showtime Extreme West" tvg-logo="https://i.ibb.co/xjF3p0M/showtime-extreme-us.png" group-title="MOVIE NETWORKS",Showtime Extreme West
+http://thevdm.xyz:25461/Jennifer/Year!/52195
+#EXTINF:-1 tvg-id="showtimefamilyzone.us" tvg-name="Showtime Family Zone" tvg-logo="https://i.ibb.co/6wWRgWD/showtime-family-zone-us.png" group-title="MOVIE NETWORKS",Showtime Family Zone
+http://thevdm.xyz:25461/Jennifer/Year!/52196
+#EXTINF:-1 tvg-id="ShowtimeFamilyzonePacific.us" tvg-name="Showtime Family Zone West" tvg-logo="https://i.ibb.co/6wWRgWD/showtime-family-zone-us.png" group-title="MOVIE NETWORKS",Showtime Family Zone West
+http://thevdm.xyz:25461/Jennifer/Year!/52197
+#EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-name="Showtime Next" tvg-logo="https://i.ibb.co/yRGFYmp/showtime-next-us.png" group-title="MOVIE NETWORKS",Showtime Next
+http://thevdm.xyz:25461/Jennifer/Year!/52198
+#EXTINF:-1 tvg-id="ShowtimeNextPacific.us" tvg-name="Showtime NextWest" tvg-logo="https://i.ibb.co/yRGFYmp/showtime-next-us.png" group-title="MOVIE NETWORKS",Showtime NextWest
+http://thevdm.xyz:25461/Jennifer/Year!/52199
+#EXTINF:-1 tvg-id="ShowtimeShowcase.us" tvg-name="Showtime Showcase" tvg-logo="https://i.ibb.co/TgHPyZC/showtime-showcase-us.png" group-title="MOVIE NETWORKS",Showtime Showcase
+http://thevdm.xyz:25461/Jennifer/Year!/52200
+#EXTINF:-1 tvg-id="showtimeshowcasepacific.us" tvg-name="Showtime Showcase West" tvg-logo="https://i.ibb.co/TgHPyZC/showtime-showcase-us.png" group-title="MOVIE NETWORKS",Showtime Showcase West
+http://thevdm.xyz:25461/Jennifer/Year!/52201
+#EXTINF:-1 tvg-id="ShowtimeWomen.us" tvg-name="Showtime Women" tvg-logo="https://i.ibb.co/bb3gtCs/showtime-women-us.png" group-title="MOVIE NETWORKS",Showtime Women
+http://thevdm.xyz:25461/Jennifer/Year!/52202
+#EXTINF:-1 tvg-id="ShowtimeWomenPacific.us" tvg-name="Showtime Women West" tvg-logo="https://i.ibb.co/bb3gtCs/showtime-women-us.png" group-title="MOVIE NETWORKS",Showtime Women West
+http://thevdm.xyz:25461/Jennifer/Year!/52203
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="STARZ" tvg-logo="https://i.ibb.co/7XVYbGS/starz.png" group-title="MOVIE NETWORKS",STARZ
+http://thevdm.xyz:25461/Jennifer/Year!/52204
+#EXTINF:-1 tvg-id="StarzPacific.us" tvg-name="STARZ West" tvg-logo="https://i.ibb.co/7XVYbGS/starz.png" group-title="MOVIE NETWORKS",STARZ West
+http://thevdm.xyz:25461/Jennifer/Year!/52205
+#EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="STARZ Cinema" tvg-logo="https://i.ibb.co/ZGkVxSL/starz-cinema.png" group-title="MOVIE NETWORKS",STARZ Cinema
+http://thevdm.xyz:25461/Jennifer/Year!/52206
+#EXTINF:-1 tvg-id="StarzCinemaPacific.us" tvg-name="Starz Cinema West" tvg-logo="https://i.ibb.co/ZGkVxSL/starz-cinema.png" group-title="MOVIE NETWORKS",Starz Cinema West
+http://thevdm.xyz:25461/Jennifer/Year!/52207
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="STARZ Comedy" tvg-logo="https://i.ibb.co/W3Lvypc/starz-comedy.png" group-title="MOVIE NETWORKS",STARZ Comedy
+http://thevdm.xyz:25461/Jennifer/Year!/52208
+#EXTINF:-1 tvg-id="StarzComedyPacific.us" tvg-name="Starz Comedy West" tvg-logo="https://i.ibb.co/W3Lvypc/starz-comedy.png" group-title="MOVIE NETWORKS",Starz Comedy West
+http://thevdm.xyz:25461/Jennifer/Year!/52209
+#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="STARZ Edge" tvg-logo="https://i.ibb.co/N2hQh4Q/starz-edge.png" group-title="MOVIE NETWORKS",STARZ Edge
+http://thevdm.xyz:25461/Jennifer/Year!/52210
+#EXTINF:-1 tvg-id="StarzEdgePacific.us" tvg-name="Starz Edge West" tvg-logo="https://i.ibb.co/N2hQh4Q/starz-edge.png" group-title="MOVIE NETWORKS",Starz Edge West
+http://thevdm.xyz:25461/Jennifer/Year!/52211
+#EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="STARZ in Black" tvg-logo="https://i.ibb.co/2sv2RQ1/starz-in-black.png" group-title="MOVIE NETWORKS",STARZ in Black
+http://thevdm.xyz:25461/Jennifer/Year!/52212
+#EXTINF:-1 tvg-id="StarzinBlackPacific.us" tvg-name="Starz in Black West" tvg-logo="https://i.ibb.co/2sv2RQ1/starz-in-black.png" group-title="MOVIE NETWORKS",Starz in Black West
+http://thevdm.xyz:25461/Jennifer/Year!/52213
+#EXTINF:-1 tvg-id="StarzKids.us" tvg-name="STARZ Kids & Family" tvg-logo="https://i.ibb.co/hHkg5WX/starz-kids-family.png" group-title="MOVIE NETWORKS",STARZ Kids & Family
+http://thevdm.xyz:25461/Jennifer/Year!/52214
+#EXTINF:-1 tvg-id="StarzKidsPacific.us" tvg-name="Starz Kids & Family West" tvg-logo="https://i.ibb.co/hHkg5WX/starz-kids-family.png" group-title="MOVIE NETWORKS",Starz Kids & Family West
+http://thevdm.xyz:25461/Jennifer/Year!/52215
+#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="STARZEncore" tvg-logo="https://i.ibb.co/0fKf4qC/starz-encore.png" group-title="MOVIE NETWORKS",STARZEncore
+http://thevdm.xyz:25461/Jennifer/Year!/52216
+#EXTINF:-1 tvg-id="StarzEncorePacific.us" tvg-name="STARZEncore West" tvg-logo="https://i.ibb.co/0fKf4qC/starz-encore.png" group-title="MOVIE NETWORKS",STARZEncore West
+http://thevdm.xyz:25461/Jennifer/Year!/52217
+#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="STARZEncore Action" tvg-logo="https://i.ibb.co/9gFQXnX/starz-encore-action.png" group-title="MOVIE NETWORKS",STARZEncore Action
+http://thevdm.xyz:25461/Jennifer/Year!/52218
+#EXTINF:-1 tvg-id="StarzEncoreBlack.us" tvg-name="STARZEncore Black" tvg-logo="https://i.ibb.co/QQ8DTKB/starz-encore-black.png" group-title="MOVIE NETWORKS",STARZEncore Black
+http://thevdm.xyz:25461/Jennifer/Year!/52219
+#EXTINF:-1 tvg-id="StarzEncoreClassic.us" tvg-name="STARZEncore Classic" tvg-logo="https://i.ibb.co/vxRw47q/starz-encore-classic.png" group-title="MOVIE NETWORKS",STARZEncore Classic
+http://thevdm.xyz:25461/Jennifer/Year!/52220
+#EXTINF:-1 tvg-id="StarzEncoreEspanol.us" tvg-name="STARZEncore Espanol" tvg-logo="https://cdn.diablo.ltd/logos/STARZEncoreEspanolUS.png" group-title="MOVIE NETWORKS",STARZEncore Espanol
+http://thevdm.xyz:25461/Jennifer/Year!/52221
+#EXTINF:-1 tvg-id="StarzEncoreFamily.us" tvg-name="STARZEncore Family" tvg-logo="https://i.ibb.co/x8XHVGZ/starz-encore-family.png" group-title="MOVIE NETWORKS",STARZEncore Family
+http://thevdm.xyz:25461/Jennifer/Year!/52222
+#EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-name="STARZEncore Suspense" tvg-logo="https://i.ibb.co/F46Tb73/starz-encore-suspense.png" group-title="MOVIE NETWORKS",STARZEncore Suspense
+http://thevdm.xyz:25461/Jennifer/Year!/52223
+#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="STARZEncore Westerns" tvg-logo="https://i.ibb.co/dcmMXz8/starz-encore-westerns.png" group-title="MOVIE NETWORKS",STARZEncore Westerns
+http://thevdm.xyz:25461/Jennifer/Year!/52224
+
+Sports:
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="beIN SPORTS" tvg-logo="https://imgx.fubo.tv/station_logos/bein_sports_english_c.png" group-title="SPORTS CENTER",beIN SPORTS
+#EXTINF:-1 tvg-id="BigTen.us" tvg-name="Big Ten Network" tvg-logo="https://imgx.fubo.tv/station_logos/big_ten_c.png" group-title="SPORTS CENTER",Big Ten Network
+http://thevdm.xyz:25461/Jennifer/Year!/20040#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBSSN" tvg-logo="https://imgx.fubo.tv/station_logos/cbs_sn_c.png" group-title="SPORTS CENTER",CBSSN
+http://thevdm.xyz:25461/Jennifer/Year!/20043
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="http://primestreamstv.com/logos/ESPN.png" group-title="SPORTS CENTER",ESPN
+http://thevdm.xyz:25461/Jennifer/Year!/20045
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://www.dropbox.com/s/5cb8lt2a7clxccv/ESPN_2_US.png?dl=1" group-title="SPORTS CENTER",ESPN 2
+http://thevdm.xyz:25461/Jennifer/Year!/20046
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPN NEWS" tvg-logo="https://www.dropbox.com/s/oyyjamkfumrqfhd/ESPNews.png?dl=1" group-title="SPORTS CENTER",ESPN NEWS
+http://thevdm.xyz:25461/Jennifer/Year!/20047
+#EXTINF:-1 tvg-id="ESPNExtra.mx" tvg-name="ESPN Extra" tvg-logo="" group-title="SPANISH CHANNELS",ESPN Extra
+http://thevdm.xyz:25461/Jennifer/Year!/19887
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-logo="https://www.dropbox.com/s/ik9pntw8sk38iix/ESPN_U.png?dl=1" group-title="SPORTS CENTER",ESPN U
+http://thevdm.xyz:25461/Jennifer/Year!/20048
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U FHD " tvg-logo="https://i.ibb.co/7rfzkNv/espnu.png" group-title="US CHANNELS FHD",ESPN U FHD 
+http://thevdm.xyz:25461/Jennifer/Year!/31413
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPNEWS FHD" tvg-logo="https://i.ibb.co/zhPfprg/espnews.png" group-title="US CHANNELS FHD",ESPNEWS FHD
+http://thevdm.xyz:25461/Jennifer/Year!/31412
+#EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-name="FOX Soccer Plus" tvg-logo="https://imgx.fubo.tv/station_logos/fox_soccer_plus_c.png" group-title="SPORTS CENTER",FOX Soccer Plus
+http://thevdm.xyz:25461/Jennifer/Year!/20051
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FOX Sports 1" tvg-logo="https://imgx.fubo.tv/station_logos/fs1_c.png" group-title="SPORTS CENTER",FOX Sports 1
+http://thevdm.xyz:25461/Jennifer/Year!/20052
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="FOX Sports 2" tvg-logo="https://imgx.fubo.tv/station_logos/fs2_c.png" group-title="SPORTS CENTER",FOX Sports 2
+http://thevdm.xyz:25461/Jennifer/Year!/20053
+#EXTINF:-1 tvg-id="FOXSports2.mx" tvg-name="FOX SPORTS 2 ES" tvg-logo="" group-title="SPANISH CHANNELS",FOX SPORTS 2 ES
+http://thevdm.xyz:25461/Jennifer/Year!/19900
+#EXTINF:-1 tvg-id="FOXSports3.mx" tvg-name="FOX SPORTS 3 ES" tvg-logo="" group-title="SPANISH CHANNELS",FOX SPORTS 3 ES
+http://thevdm.xyz:25461/Jennifer/Year!/19899
+#EXTINF:-1 tvg-id="FOXSports.mx" tvg-name="FOX SPORTS ES" tvg-logo="" group-title="SPANISH CHANNELS",FOX SPORTS ES
+http://thevdm.xyz:25461/Jennifer/Year!/19901
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS RACING" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/fsracing.png" group-title="SPORTS CENTER",FOX SPORTS RACING
+http://thevdm.xyz:25461/Jennifer/Year!/20071
+#EXTINF:-1 tvg-id="LonghornNetwork.us" tvg-name="LONGHORN NETWORK" tvg-logo="" group-title="SPORTS CENTER",LONGHORN NETWORK
+http://thevdm.xyz:25461/Jennifer/Year!/20087
+#EXTINF:-1 tvg-id="LonghornNetwork.us" tvg-name="Longhorn Network FHD" tvg-logo="https://i.ibb.co/J7T9wkk/longhorn-network.png" group-title="US CHANNELS FHD",Longhorn Network FHD
+http://thevdm.xyz:25461/Jennifer/Year!/31439
+#EXTINF:-1 tvg-id="marqueesportsnetwork.us" tvg-name="Marquee Sports Nerwork" tvg-logo="https://i.ibb.co/z7WBFBv/marquee-sports-network.png" group-title="MLB",Marquee Sports Nerwork
+http://thevdm.xyz:25461/Jennifer/Year!/37829
+#EXTINF:-1 tvg-id="MavTV.us" tvg-name="Mav TV" tvg-logo="https://imgx.fubo.tv/station_logos/mavtv_c.png" group-title="SPORTS CENTER",Mav TV
+http://thevdm.xyz:25461/Jennifer/Year!/20088
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area" tvg-logo="https://imgx.fubo.tv/station_logos/nbc-sports-bay-area_c.png" group-title="SPORTS CENTER",NBC Sports Bay Area
+http://thevdm.xyz:25461/Jennifer/Year!/20095
+#EXTINF:-1 tvg-id="NBCSportsCaliforniaPlus.us" tvg-name="NBC Sports Bay Area+" tvg-logo="https://imgx.fubo.tv/station_logos/nbc-sports-bay-area-plus_c.png" group-title="SPORTS CENTER",NBC Sports Bay Area+
+http://thevdm.xyz:25461/Jennifer/Year!/20096
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="NBC Sports Boston" tvg-logo="http://epg.justco.cc/guide/logos/us/NBCSportsBoston.us.png" group-title="SPORTS CENTER",NBC Sports Boston
+http://thevdm.xyz:25461/Jennifer/Year!/20097
+#EXTINF:-1 tvg-id="NBCSportsCalifornia.us" tvg-name="NBC Sports California" tvg-logo="https://imgx.fubo.tv/station_logos/nbc-sports-california_c.png" group-title="SPORTS CENTER",NBC Sports California
+http://thevdm.xyz:25461/Jennifer/Year!/20098
+#EXTINF:-1 tvg-id="UNIVERSO.us" tvg-name="NBC Universo (East)" tvg-logo="https://imgx.fubo.tv/station_logos/nbc_universo_c.png" group-title="SPANISH CHANNELS",NBC Universo (East)
+http://thevdm.xyz:25461/Jennifer/Year!/19938
+#EXTINF:-1 tvg-id="Universo.us" tvg-name="NBC Universo (West)" tvg-logo="https://imgx.fubo.tv/station_logos/nbc_universo_c.png" group-title="SPANISH CHANNELS",NBC Universo (West)
+http://thevdm.xyz:25461/Jennifer/Year!/19939
+#EXTINF:-1 tvg-id="espn.us" tvg-name="NCAAB 01: ESPN" tvg-logo="" group-title="NCAAB",NCAAB 01: ESPN
+http://thevdm.xyz:25461/Jennifer/Year!/32296
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="NCAAB 02: ESPN 2" tvg-logo="" group-title="NCAAB",NCAAB 02: ESPN 2
+http://thevdm.xyz:25461/Jennifer/Year!/32297
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="NCAAB 03: ESPNU" tvg-logo="" group-title="NCAAB",NCAAB 03: ESPNU
+http://thevdm.xyz:25461/Jennifer/Year!/32298
+#EXTINF:-1 tvg-id="espnnews.us" tvg-name="NCAAB 04: ESPN News" tvg-logo="" group-title="NCAAB",NCAAB 04: ESPN News
+http://thevdm.xyz:25461/Jennifer/Year!/32299
+#EXTINF:-1 tvg-id="accnetwork.us" tvg-name="NCAAB 05: ACC Network" tvg-logo="" group-title="NCAAB",NCAAB 05: ACC Network
+http://thevdm.xyz:25461/Jennifer/Year!/32346
+#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="NCAAB 06: SEC Network" tvg-logo="" group-title="NCAAB",NCAAB 06: SEC Network
+http://thevdm.xyz:25461/Jennifer/Year!/32347
+#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="US: NFL Red Zone" tvg-logo="http://app.lam18.com/posters/1510731166193.jpg" group-title="NFL HD",US: NFL Red Zone
+http://thevdm.xyz:25461/Jennifer/Year!/76904
+#EXTINF:-1 tvg-id="NFLHD" tvg-name="NFL NETWORK" tvg-logo="http://fanc.tmsimg.com/assets/s45399_ll_h3_aa.png" group-title="NFL FHD",NFL NETWORK
+http://thevdm.xyz:25461/Jennifer/Year!/76962
+#EXTINF:-1 tvg-id="NFLNRZD" tvg-name="NFL REDZONE" tvg-logo="http://fanc.tmsimg.com/assets/s65025_ll_h3_aa.png" group-title="NFL FHD",NFL REDZONE
+http://thevdm.xyz:25461/Jennifer/Year!/76963
+#EXTINF:-1 tvg-id="0.NFL" tvg-name="NFL 00" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 00
+http://thevdm.xyz:25461/Jennifer/Year!/76989
+#EXTINF:-1 tvg-id="1.NFL" tvg-name="NFL 01" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 01
+http://thevdm.xyz:25461/Jennifer/Year!/76990
+#EXTINF:-1 tvg-id="2.NFL" tvg-name="NFL 02" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 02
+http://thevdm.xyz:25461/Jennifer/Year!/76991
+#EXTINF:-1 tvg-id="3.NFL" tvg-name="NFL 03" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 03
+http://thevdm.xyz:25461/Jennifer/Year!/76992
+#EXTINF:-1 tvg-id="4.NFL" tvg-name="NFL 04" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 04
+http://thevdm.xyz:25461/Jennifer/Year!/76993
+#EXTINF:-1 tvg-id="5.NFL" tvg-name="NFL 05" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 05
+http://thevdm.xyz:25461/Jennifer/Year!/76994
+#EXTINF:-1 tvg-id="6.NFL" tvg-name="NFL 06" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 06
+http://thevdm.xyz:25461/Jennifer/Year!/76995
+#EXTINF:-1 tvg-id="7.NFL" tvg-name="NFL 07" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 07
+http://thevdm.xyz:25461/Jennifer/Year!/76996
+#EXTINF:-1 tvg-id="8.NFL" tvg-name="NFL 08" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 08
+http://thevdm.xyz:25461/Jennifer/Year!/76997
+#EXTINF:-1 tvg-id="9.NFL" tvg-name="NFL 09" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 09
+http://thevdm.xyz:25461/Jennifer/Year!/76998
+#EXTINF:-1 tvg-id="10.NFL" tvg-name="NFL 10" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 10
+http://thevdm.xyz:25461/Jennifer/Year!/76999
+#EXTINF:-1 tvg-id="11.NFL" tvg-name="NFL 11" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 11
+http://thevdm.xyz:25461/Jennifer/Year!/77000
+#EXTINF:-1 tvg-id="12.NFL" tvg-name="NFL 12" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 12
+http://thevdm.xyz:25461/Jennifer/Year!/77001
+#EXTINF:-1 tvg-id="13.NFL" tvg-name="NFL 13" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 13
+http://thevdm.xyz:25461/Jennifer/Year!/77002
+#EXTINF:-1 tvg-id="" tvg-name="NFL 14" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 14
+http://thevdm.xyz:25461/Jennifer/Year!/77003
+#EXTINF:-1 tvg-id="" tvg-name="NFL 15" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 15
+http://thevdm.xyz:25461/Jennifer/Year!/77004
+
+
+
