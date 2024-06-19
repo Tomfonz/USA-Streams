@@ -60,7 +60,7 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/9255
 
 
 UK TV
-#EXTINF:-1 group-title="UKTV VPN Req" tvg-id="BBC One", BBC One 
+#EXTINF:-1 group-title="UKTV VPN Req" tvg-id="BBC One", BBC One London
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/697
 #EXTINF:-1 group-title="UKTV VPN Req" tvg-id="BBC Two", BBC Two
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/283047
@@ -86,9 +86,9 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/11738
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/302635
 #EXTINF:-1 group-title="UKTV VPN Req" tvg-id=" SYFY", SYFY
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1068
-#EXTINF:-1 group-title="UKTV VPN Req" tvg-id=" Gold", Gold
+#EXTINF:-1 group-title="UKTV VPN Req" tvg-id="Gold HD", Gold HD
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/297105
-#EXTINF:-1 group-title="UKTV VPN Req" tvg-id=" Gold +1", Gold +1
+#EXTINF:-1 group-title="UKTV VPN Req" tvg-id="Gold +1", Gold +1
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/297106
 #EXTINF:-1 group-title="UKTV VPN Req" tvg-id="itv 2", ITV 2
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/690
