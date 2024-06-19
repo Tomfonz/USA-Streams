@@ -11,8 +11,6 @@ https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/st
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/AdultSwimWest.us.m3u8
 #EXTINF:-1  group-title="Toonami" tvg-id="Venture Bros",The Venture Brothers 
 https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_4.m3u8
-#EXTINF:-1  group-title="Toonami" tvg-id="AdultSwimAquaTeenHungerForce.us",Adult Swim Aqua Teen Hunger Force (1080p) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
 #EXTINF:-1  group-title="Toonami" tvg-id="AdultSwimRobotChicken.us",Adult Swim Robot Chicken (1080p) [Geo-blocked]
 https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
 #EXTINF:-1  group-title="Toonami" tvg-id="RetroCrush", Retro Crush 720p
