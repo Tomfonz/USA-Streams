@@ -5,9 +5,9 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 #EXTINF:-1  group-title="Toonami" tvg-id="Toonami Movies",Toonami Aftermath Movies
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
-#EXTINF:-1  tvg-id="CartoonNetwork.us" tvg-name="Adult Swim East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="Toonami",Adult Swim East
+#EXTINF:-1  tvg-id="CartoonNetworkEast.us" tvg-name="Adult Swim East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="Toonami",Adult Swim East
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/AdultSwimEast.us.m3u8
-#EXTINF:-1  tvg-id="CartoonNetworkPacific.us" tvg-name="Adult Swim West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="Toonami",Adult Swim West
+#EXTINF:-1  tvg-id="CartoonNetworkWest.us" tvg-name="Adult Swim West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="Toonami",Adult Swim West
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/AdultSwimWest.us.m3u8
 #EXTINF:-1  group-title="Toonami" tvg-id="Venture Bros",The Venture Brothers 
 https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_4.m3u8
@@ -549,9 +549,9 @@ http://thevdm.xyz:25461/Jennifer/Year!/34459
 http://thevdm.xyz:25461/Jennifer/Year!/34460
 #EXTINF:-1  tvg-id="ActionMAXPacific.us" tvg-name="ActionMAX West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/2560px-ActionMax_logo.svg.png" group-title="USA TV",ActionMAX West
 http://thevdm.xyz:25461/Jennifer/Year!/34461
-#EXTINF:-1  tvg-id="CartoonNetwork.us" tvg-name="Adult Swim East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="USA TV",Adult Swim East
+#EXTINF:-1  tvg-id="CartoonNetworkEast.us" tvg-name="Adult Swim East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="USA TV",Adult Swim East
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/AdultSwimEast.us.m3u8
-#EXTINF:-1  tvg-id="CartoonNetworkPacific.us" tvg-name="Adult Swim West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="USA TV",Adult Swim West
+#EXTINF:-1  tvg-id="CartoonNetworkWest.us" tvg-name="Adult Swim West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="USA TV",Adult Swim West
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/AdultSwimWest.us.m3u8
 #EXTINF:-1  tvg-id="AandENetwork.us" tvg-name="A&E FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_AE_Germany.svg/1200px-Logo_AE_Germany.svg.png" group-title="USA TV",A&E
 http://thevdm.xyz:25461/Jennifer/Year!/43987
@@ -576,9 +576,9 @@ http://thevdm.xyz:25461/Jennifer/Year!/44006
 https://fl2.moveonjoy.com/BRAVO/index.m3u8
 #EXTINF:-1  tvg-id="BravoPacific.us" tvg-name="Bravo West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/1200px-Bravo_2017_logo.svg.png" group-title="USA TV",Bravo West
 http://thevdm.xyz:25461/Jennifer/Year!/44008
-#EXTINF:-1  tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="USA TV",Cartoon Network East
+#EXTINF:-1  tvg-id="CartoonNetworkEast.us" tvg-name="Cartoon Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="USA TV",Cartoon Network East
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1  tvg-id="CartoonNetworkPacific.us" tvg-name="Cartoon Network West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="USA TV",Cartoon Network West
+#EXTINF:-1  tvg-id="CartoonNetworkWest.us" tvg-name="Cartoon Network West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="USA TV",Cartoon Network West
 http://supersonictv.live:8080/242306/210404/21794
 #EXTINF:-1  tvg-id="CBSWBZ.us" tvg-name="CBS East" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png" group-title="USA TV",CBS East (Boston)
 http://fl1.moveonjoy.com/CBSEAST/index.m3u8
@@ -613,9 +613,9 @@ https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?delay=1
 http://thevdm.xyz:25461/Jennifer/Year!/85977
 #EXTINF:-1  tvg-id="CWKTLA.us" tvg-name="CW (Los Angeles)" tvg-logo="https://cdn.cookielaw.org/logos/60ba8bee-28bd-45b9-bfaf-0bc25767ba53/8759a1c2-140a-4c40-9971-9507bd445f02/96f451bb-2555-4c61-a248-8b78334b4fbe/CW-logo-black.png" group-title="USA TV",CW West (Los Angeles)
 http://thevdm.xyz:25461/Jennifer/Year!/85970
-#EXTINF:-1  tvg-id="DisneyChannel.us" tvg-name="Disney Channel East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" group-title="USA TV",Disney Channel East
+#EXTINF:-1  tvg-id="DisneyChannelEast.us" tvg-name="Disney Channel East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" group-title="USA TV",Disney Channel East
 http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1  tvg-id="DisneyChannelPacific.us" tvg-name="Disney Channel West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" group-title="USA TV",Disney Channel West
+#EXTINF:-1  tvg-id="DisneyChannelWest.us" tvg-name="Disney Channel West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" group-title="USA TV",Disney Channel West
 http://thevdm.xyz:25461/Jennifer/Year!/25180
 #EXTINF:-1  tvg-id="DisneyJunior.us" tvg-name="Disney Junior East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="USA TV",Disney Junior East
 http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
@@ -935,21 +935,21 @@ http://supersonictv.live:8080/242306/210404/61847
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1  tvg-id="TennisChannelPlus.us" tvg-name="Tennis Channel Plus" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/2000px-Tennis_Channel_logo.svg_.png" group-title="USA TV",Tennis Channel Plus
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
-#EXTINF:-1  tvg-id="TLC.us" tvg-name="TLC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="USA TV",TLC (The Learning Channel) East
+#EXTINF:-1  tvg-id="TLCEast.us" tvg-name="TLC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="USA TV",TLC (The Learning Channel) East
 http://fl2.moveonjoy.com/TLC/index.m3u8
-#EXTINF:-1  tvg-id="TLCPacific.us" tvg-name="TLC West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="USA TV",TLC (The Learning Channel) West
+#EXTINF:-1  tvg-id="TLCWest.us" tvg-name="TLC West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="USA TV",TLC (The Learning Channel) West
 http://supersonictv.live:8080/242306/210404/22158
 #EXTINF:-1  tvg-id="ThrillerMAX.us" tvg-name="ThrillerMAX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/ThrillerMax_Logo.svg/2560px-ThrillerMax_Logo.svg.png" group-title="USA TV",ThrillerMAX East
 http://thevdm.xyz:25461/Jennifer/Year!/34468
 #EXTINF:-1  tvg-id="ThrillerMAXPacific.us" tvg-name="ThrillerMAX West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/ThrillerMax_Logo.svg/2560px-ThrillerMax_Logo.svg.png" group-title="USA TV",ThrillerMAX West
 http://thevdm.xyz:25461/Jennifer/Year!/34469
-#EXTINF:-1  tvg-id="TNT.us" tvg-name="TNT East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="USA TV",TNT East
+#EXTINF:-1  tvg-id="TNTEast.us" tvg-name="TNT East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="USA TV",TNT East
 https://fl2.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1  tvg-id="TurnerNetworkTelevisionPacific.us" tvg-name="TNT West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="USA TV",TNT West
+#EXTINF:-1  tvg-id="TNTWest.us" tvg-name="TNT West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="USA TV",TNT West
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/TNTWest.us.m3u8
-#EXTINF:-1  tvg-id="truTV.us" tvg-name="truTV East" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="USA TV",truTV East
+#EXTINF:-1  tvg-id="truTVEast.us" tvg-name="truTV East" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="USA TV",truTV East
 http://fl2.moveonjoy.com/TRU_TV/index.m3u8
-#EXTINF:-1  tvg-id="truTVPacific.us" tvg-name="truTV West" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="USA TV",truTV West
+#EXTINF:-1  tvg-id="truTVWest.us" tvg-name="truTV West" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="USA TV",truTV West
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/truTVWest.us.m3u8
 #EXTINF:-1  tvg-id="TUDN.us" tvg-name="TUDN" tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="USA TV",TUDN
 https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_hd_pc.m3u8?t1=
@@ -1099,11 +1099,11 @@ http://thevdm.xyz:25461/Jennifer/Year!/44003
 http://thevdm.xyz:25461/Jennifer/Year!/44005
 #EXTINF:-1  tvg-id="Boomerang.us" tvg-name="(L) Boomerang" tvg-logo="https://imgx.fubo.tv/station_logos/boomerang_c.png" group-title="USA TV- Alternative streams",(L) Boomerang
 http://thevdm.xyz:25461/Jennifer/Year!/44006
-#EXTINF:-1  tvg-id="Bravo.us" tvg-name="(L) Bravo" tvg-logo="https://imgx.fubo.tv/station_logos/bravo_c.png" group-title="USA TV- Alternative streams",(L) Bravo
+#EXTINF:-1  tvg-id="BravoEast.us" tvg-name="(L) Bravo" tvg-logo="https://imgx.fubo.tv/station_logos/bravo_c.png" group-title="USA TV- Alternative streams",(L) Bravo
 http://thevdm.xyz:25461/Jennifer/Year!/44007
-#EXTINF:-1  tvg-id="BravoPacific.us" tvg-name="(L) Bravo (West)" tvg-logo="https://imgx.fubo.tv/station_logos/bravo_c.png" group-title="USA TV- Alternative streams",(L) Bravo (West)
+#EXTINF:-1  tvg-id="BravoWest.us" tvg-name="(L) Bravo (West)" tvg-logo="https://imgx.fubo.tv/station_logos/bravo_c.png" group-title="USA TV- Alternative streams",(L) Bravo (West)
 http://thevdm.xyz:25461/Jennifer/Year!/44008
-#EXTINF:-1  tvg-id="CartoonNetwork.us" tvg-name="(L) Cartoon Network" tvg-logo="https://imgx.fubo.tv/station_logos/cartoon-network_c.png" group-title="USA TV- Alternative streams",(L) Cartoon Network
+#EXTINF:-1  tvg-id="CartoonNetworkEast.us" tvg-name="(L) Cartoon Network" tvg-logo="https://imgx.fubo.tv/station_logos/cartoon-network_c.png" group-title="USA TV- Alternative streams",(L) Cartoon Network
 http://thevdm.xyz:25461/Jennifer/Year!/44009
 #EXTINF:-1  tvg-id="CBSWCBS.us" tvg-name="(L) CBS" tvg-logo="https://imgx.fubo.tv/station_logos/wusa_n_c.png" group-title="USA TV- Alternative streams",(L) CBS
 http://thevdm.xyz:25461/Jennifer/Year!/44010
@@ -1121,7 +1121,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/44016
 http://thevdm.xyz:25461/Jennifer/Year!/44017
 #EXTINF:-1  tvg-id="ComedyCentral.us" tvg-name="(L) Comedy Central" tvg-logo="https://imgx.fubo.tv/station_logos/comedy_central_c.png" group-title="USA TV- Alternative streams",(L) Comedy Central
 http://thevdm.xyz:25461/Jennifer/Year!/44018
-#EXTINF:-1  tvg-id="Comet.us" tvg-name="(L) Comet" tvg-logo="https://imgx.fubo.tv/station_logos/comet_c.png" group-title="USA TV- Alternative streams",(L) Comet
+#EXTINF:-1  tvg-id="WJARDT3.us" tvg-name="(L) Comet" tvg-logo="https://imgx.fubo.tv/station_logos/comet_c.png" group-title="USA TV- Alternative streams",(L) Comet
 http://thevdm.xyz:25461/Jennifer/Year!/44020
 #EXTINF:-1  tvg-id="CookingChannel.us" tvg-name="(L) Cooking Channel" tvg-logo="https://imgx.fubo.tv/station_logos/cooking-channel_c.png" group-title="USA TV- Alternative streams",(L) Cooking Channel
 http://thevdm.xyz:25461/Jennifer/Year!/44021
