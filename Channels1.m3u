@@ -601,9 +601,9 @@ http://supersonictv.live:8080/242306/210404/83349
 #EXTINF:-1  tvg-id="CNBC.us" tvg-name="CNBC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/CNBC_2023.svg" group-title="USA TV",CNBC
 http://thevdm.xyz:25461/Jennifer/Year!/39732
 #EXTINF:-1  tvg-id="CNBCWorld.us" tvg-name="CNBC World" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/CNBC_World.svg/1200px-CNBC_World.svg.png" group-title="USA TV",CNBC World
-#EXTINF:-1  tvg-id="ComedyCentral.us" tvg-name="Comedy Central East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="USA TV",Comedy Central East
+#EXTINF:-1  tvg-id="ComedyCentralEast.us" tvg-name="Comedy Central East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="USA TV",Comedy Central East
 http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
-#EXTINF:-1  tvg-id="ComedyCentralPacific.us" tvg-name="Comedy Central West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="USA TV",Comedy Central West
+#EXTINF:-1  tvg-id="ComedyCentralWest.us" tvg-name="Comedy Central West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="USA TV",Comedy Central West
 http://thevdm.xyz:25461/Jennifer/Year!/39736
 #EXTINF:-1  tvg-id="Comet.us" tvg-name="Comet East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/1200px-Comet_logo.svg.png" group-title="USA TV",Comet East
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
@@ -691,13 +691,13 @@ http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 http://thevdm.xyz:25461/Jennifer/Year!/39777
 #EXTINF:-1  tvg-id="HallmarkMoviesAndMysteriesPacific.us" tvg-name="Hallmark Movies & Mysteries West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="USA TV",Hallmark Movies & Mysteries West
 http://ufospeeds.com:2095/73622931496/7122224796/185
-#EXTINF:-1  tvg-id="HBO.us" tvg-name="HBO East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="USA TV",HBO East
+#EXTINF:-1  tvg-id="HBOEast.us" tvg-name="HBO East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="USA TV",HBO East
 http://fl2.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1  tvg-id="HBOPacific.us" tvg-name="HBO West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="USA TV",HBO West
+#EXTINF:-1  tvg-id="HBOWest.us" tvg-name="HBO West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="USA TV",HBO West
 http://thevdm.xyz:25461/Jennifer/Year!/34479
-#EXTINF:-1  tvg-id="HBO2.us" tvg-name="HBO2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="USA TV",HBO2 East
+#EXTINF:-1  tvg-id="HBO2East.us" tvg-name="HBO2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="USA TV",HBO2 East
 http://fl2.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1  tvg-id="HBO2Pacific.us" tvg-name="HBO2 West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="USA TV",HBO2 West
+#EXTINF:-1  tvg-id="HBO2West.us" tvg-name="HBO2 West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="USA TV",HBO2 West
 http://thevdm.xyz:25461/Jennifer/Year!/34476
 #EXTINF:-1  tvg-id="HBOComedy.us" tvg-name="HBO Comedy East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/HBO_Comedy_2014_%28Stacked%29.svg/revision/latest/scale-to-width-down/250?cb=20210113003534" group-title="USA TV",HBO Comedy East
 http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
