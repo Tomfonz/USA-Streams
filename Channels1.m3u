@@ -60,9 +60,9 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/9255
 
 
 UK TV
-#EXTINF:-1 group-title="UKTV VPN Req" tvg-id="BBC One", BBC One London
+#EXTINF:-1 group-title="UKTV VPN Req" tvg-id="BBC One London", BBC One London
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/697
-#EXTINF:-1 group-title="UKTV VPN Req" tvg-id="BBC Two", BBC Two
+#EXTINF:-1 group-title="UKTV VPN Req" tvg-id="BBC Two HD", BBC Two HD
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/283047
 #EXTINF:-1 group-title="UKTV VPN Req" tvg-id="itv 1", ITV 1
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/296931
@@ -72,15 +72,15 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1120
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1119
 #EXTINF:-1 group-title="UKTV VPN Req" tvg-id=" BBC America", BBC USA 
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/302390
-#EXTINF:-1 group-title="UKTV VPN Req" tvg-id=" Sky One", Sky One
+#EXTINF:-1 group-title="UKTV VPN Req" tvg-id=" Sky One HD", Sky One HD
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1080
 #EXTINF:-1 group-title="UKTV VPN Req" tvg-id=" Sky Showcase", Sky Showcase
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/17041
-#EXTINF:-1 group-title="UKTV VPN Req" tvg-id=" Sky Comedy", Sky Comedy
+#EXTINF:-1 group-title="UKTV VPN Req" tvg-id=" Sky Comedy HD", Sky Comedy HD
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1091
 #EXTINF:-1 group-title="UKTV VPN Req" tvg-id=" Sky Atlantic", Sky Atlantic
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1093
-#EXTINF:-1 group-title="UKTV VPN Req" tvg-id=" Sky Witness", Sky Witness
+#EXTINF:-1 group-title="UKTV VPN Req" tvg-id="Sky Witness HD", Sky Witness HD
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/11738
 #EXTINF:-1 group-title="UKTV VPN Req" tvg-id=" Sky Living", Sky Living
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/302635
