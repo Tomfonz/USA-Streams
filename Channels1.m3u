@@ -26,11 +26,11 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/9218
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/303767
 
 UK TV
-#EXTINF:-1,group-title="UKTV VPN Req" tvg-id="BBC One"
+#EXTINF:-1, group-title="UKTV VPN Req" tvg-id="BBC One", BBC One 
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/697
-#EXTINF:-1,group-title="UKTV VPN Req" tvg-id="BBC Two"
+#EXTINF:-1, group-title="UKTV VPN Req" tvg-id="BBC Two"
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/283047
-#EXTINF:-1,group-title="UKTV VPN Req" tvg-id="itv 1"
+#EXTINF:-1, group-title="UKTV VPN Req" tvg-id="itv 1"
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/296931
 #EXTINF:-1,group-title="UKTV VPN Req" tvg-id=" Channel 4 London"
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1120
