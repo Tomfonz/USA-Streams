@@ -20,6 +20,45 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/301841
 #EXTINF:-1  group-title="Toonami" tvg-id="Adult Swim CA", Adult Swim Canada
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/9218
 
+Canada TV
+#EXTINF:-1,CA: AMC
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/503
+#EXTINF:-1,CA: Cartoon Network
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/505
+#EXTINF:-1,CA: Comedy Central
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/300935
+#EXTINF:-1,CA: CTV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/473
+#EXTINF:-1,CA: CTV 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/9315
+#EXTINF:-1,CA: CTV 2 Atlantic
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/13228
+#EXTINF:-1,CA: CTV Comedy Channel
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/479
+#EXTINF:-1,CA: CTV Drama Channel
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/9220
+#EXTINF:-1,CA: E!
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/468
+#EXTINF:-1,CA: FX
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/11616
+#EXTINF:-1,CA: FXX
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/6148
+#EXTINF:-1,CA: HBO 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/463
+#EXTINF:-1,CA: HBO 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/9284
+#EXTINF:-1,CA: HBO Signature
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/295079
+#EXTINF:-1,CA: nickelodeon
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/9202
+#EXTINF:-1,CA: Paramount Network
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/451
+#EXTINF:-1,CA: TLC
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/9255
+
+
+
+
 UK TV
 #EXTINF:-1 group-title="UKTV VPN Req" tvg-id="BBC One", BBC One 
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/697
@@ -1569,10 +1608,78 @@ http://thevdm.xyz:25461/Jennifer/Year!/77000
 http://thevdm.xyz:25461/Jennifer/Year!/77001
 #EXTINF:-1  tvg-id="13.NFL" tvg-name="NFL 13" tvg-logo="" group-title="USA TV",NFL 13
 http://thevdm.xyz:25461/Jennifer/Year!/77002
-#EXTINF:-1  tvg-id="" tvg-name="NFL 14" tvg-logo="" group-title="USA TV",NFL 14
+#EXTINF:-1  tvg-id="NFL 14" tvg-name="NFL 14" tvg-logo="" group-title="USA TV",NFL 14
 http://thevdm.xyz:25461/Jennifer/Year!/77003
-#EXTINF:-1  tvg-id="" tvg-name="NFL 15" tvg-logo="" group-title="USA TV",NFL 15
+#EXTINF:-1  tvg-id="NFL 15" tvg-name="NFL 15" tvg-logo="" group-title="USA TV",NFL 15
 http://thevdm.xyz:25461/Jennifer/Year!/77004
 
-
+Netflix Live Steams
+#EXTINF:-1 tvg-id=" Netflix 4K" group-title="Netflix live", 4K
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/300301
+#EXTINF:-1 tvg-id=" Netflix Action 1" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/225520
+#EXTINF:-1 tvg-id=" Netflix Action 2" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/225521
+#EXTINF:-1 tvg-id=" Netflix Action 3" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/225522
+#EXTINF:-1 tvg-id=" Netflix Action 4" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/225523
+#EXTINF:-1 tvg-id=" Netflix Action 5" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/225524
+#EXTINF:-1 tvg-id=" Netflix Action 6" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/225525
+#EXTINF:-1 tvg-id=" NETFLIX Box Office" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/73246
+#EXTINF:-1 tvg-id=" Netflix Comedy" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/43836
+#EXTINF:-1 tvg-id=" Netflix Comedy 2" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/300306
+#EXTINF:-1 tvg-id=" Netflix Crime 1" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/300307
+#EXTINF:-1 tvg-id=" NETFLIX DISNEY" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/300962
+#EXTINF:-1 tvg-id=" Netflix Drama" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/85555
+#EXTINF:-1 tvg-id=" Netflix Horror" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/77713
+#EXTINF:-1 tvg-id=" Netflix Horror 2" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/225531
+#EXTINF:-1 tvg-id=" Netflix JR 1" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/300309
+#EXTINF:-1 tvg-id=" Netflix Sci-Fi" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/122525
+#EXTINF:-1 tvg-id=" Netflix Action movies" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/193772
+#EXTINF:-1 tvg-id=" Netflix Arnold Schwarzenegger" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/198444
+#EXTINF:-1 tvg-id=" Netflix Aventure" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/198437
+#EXTINF:-1 tvg-id=" Netflix Bud Spencer" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/301786
+#EXTINF:-1 tvg-id=" Netflix Dwayne Johnson" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/198448
+#EXTINF:-1 tvg-id=" Netflix Epic Movies" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/198440
+#EXTINF:-1 tvg-id=" Netflix Fantasy" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/301789
+#EXTINF:-1 tvg-id=" Netflix Female" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/198439
+#EXTINF:-1 tvg-id=" Netflix Horror" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/193771
+#EXTINF:-1 tvg-id=" Netflix Jackie Chan" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/198446
+#EXTINF:-1 tvg-id=" Netflix Comedy" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/193773
+#EXTINF:-1 tvg-id=" Netflix Larva Kids" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/301791
+#EXTINF:-1 tvg-id=" Netflix Relaks" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/198431
+#EXTINF:-1 tvg-id=" Netflix Romance" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/198660
+#EXTINF:-1 tvg-id=" Netflix Spider-Man" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/198445
+#EXTINF:-1 tvg-id=" Netflix Sylvester stallone" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/198442
+#EXTINF:-1 tvg-id=" Netflix Van Damme" group-title="Netflix live"
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/198661
 
