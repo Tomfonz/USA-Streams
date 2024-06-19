@@ -1499,29 +1499,29 @@ http://thevdm.xyz:25461/Jennifer/Year!/52223
 http://thevdm.xyz:25461/Jennifer/Year!/52224
 
 Sports:
-#EXTINF:-1  tvg-id="beINSports.us" tvg-name="beIN SPORTS" tvg-logo="https://imgx.fubo.tv/station_logos/bein_sports_english_c.png" group-title="SPORTS CENTER",beIN SPORTS
-#EXTINF:-1  tvg-id="BigTen.us" tvg-name="Big Ten Network" tvg-logo="https://imgx.fubo.tv/station_logos/big_ten_c.png" group-title="SPORTS CENTER",Big Ten Network
-http://thevdm.xyz:25461/Jennifer/Year!/20040#EXTINF:-1  tvg-id="CBSSportsNetwork.us" tvg-name="CBSSN" tvg-logo="https://imgx.fubo.tv/station_logos/cbs_sn_c.png" group-title="SPORTS CENTER",CBSSN
+#EXTINF:-1  tvg-id="beINSports.us" tvg-name="beIN SPORTS" tvg-logo="https://imgx.fubo.tv/station_logos/bein_sports_english_c.png" group-title="USA TV",beIN SPORTS
+#EXTINF:-1  tvg-id="BigTen.us" tvg-name="Big Ten Network" tvg-logo="https://imgx.fubo.tv/station_logos/big_ten_c.png" group-title="USA TV",Big Ten Network
+http://thevdm.xyz:25461/Jennifer/Year!/20040#EXTINF:-1  tvg-id="CBSSportsNetwork.us" tvg-name="CBSSN" tvg-logo="https://imgx.fubo.tv/station_logos/cbs_sn_c.png" group-title="USA TV",CBSSN
 http://thevdm.xyz:25461/Jennifer/Year!/20043
-#EXTINF:-1  tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="http://primestreamstv.com/logos/ESPN.png" group-title="SPORTS CENTER",ESPN
+#EXTINF:-1  tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="http://primestreamstv.com/logos/ESPN.png" group-title="USA TV",ESPN
 http://thevdm.xyz:25461/Jennifer/Year!/20045
-#EXTINF:-1  tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://www.dropbox.com/s/5cb8lt2a7clxccv/ESPN_2_US.png?dl=1" group-title="SPORTS CENTER",ESPN 2
+#EXTINF:-1  tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://www.dropbox.com/s/5cb8lt2a7clxccv/ESPN_2_US.png?dl=1" group-title="USA TV",ESPN 2
 http://thevdm.xyz:25461/Jennifer/Year!/20046
-#EXTINF:-1  tvg-id="ESPNEWS.us" tvg-name="ESPN NEWS" tvg-logo="https://www.dropbox.com/s/oyyjamkfumrqfhd/ESPNews.png?dl=1" group-title="SPORTS CENTER",ESPN NEWS
+#EXTINF:-1  tvg-id="ESPNEWS.us" tvg-name="ESPN NEWS" tvg-logo="https://www.dropbox.com/s/oyyjamkfumrqfhd/ESPNews.png?dl=1" group-title="USA TV",ESPN NEWS
 http://thevdm.xyz:25461/Jennifer/Year!/20047
 #EXTINF:-1  tvg-id="ESPNExtra.mx" tvg-name="ESPN Extra" tvg-logo="" group-title="SPANISH CHANNELS",ESPN Extra
 http://thevdm.xyz:25461/Jennifer/Year!/19887
-#EXTINF:-1  tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-logo="https://www.dropbox.com/s/ik9pntw8sk38iix/ESPN_U.png?dl=1" group-title="SPORTS CENTER",ESPN U
+#EXTINF:-1  tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-logo="https://www.dropbox.com/s/ik9pntw8sk38iix/ESPN_U.png?dl=1" group-title="USA TV",ESPN U
 http://thevdm.xyz:25461/Jennifer/Year!/20048
 #EXTINF:-1  tvg-id="ESPNU.us" tvg-name="ESPN U FHD " tvg-logo="https://i.ibb.co/7rfzkNv/espnu.png" group-title="US CHANNELS FHD",ESPN U FHD 
 http://thevdm.xyz:25461/Jennifer/Year!/31413
 #EXTINF:-1  tvg-id="ESPNEWS.us" tvg-name="ESPNEWS FHD" tvg-logo="https://i.ibb.co/zhPfprg/espnews.png" group-title="US CHANNELS FHD",ESPNEWS FHD
 http://thevdm.xyz:25461/Jennifer/Year!/31412
-#EXTINF:-1  tvg-id="FoxSoccerPlus.us" tvg-name="FOX Soccer Plus" tvg-logo="https://imgx.fubo.tv/station_logos/fox_soccer_plus_c.png" group-title="SPORTS CENTER",FOX Soccer Plus
+#EXTINF:-1  tvg-id="FoxSoccerPlus.us" tvg-name="FOX Soccer Plus" tvg-logo="https://imgx.fubo.tv/station_logos/fox_soccer_plus_c.png" group-title="USA TV",FOX Soccer Plus
 http://thevdm.xyz:25461/Jennifer/Year!/20051
-#EXTINF:-1  tvg-id="FoxSports1.us" tvg-name="FOX Sports 1" tvg-logo="https://imgx.fubo.tv/station_logos/fs1_c.png" group-title="SPORTS CENTER",FOX Sports 1
+#EXTINF:-1  tvg-id="FoxSports1.us" tvg-name="FOX Sports 1" tvg-logo="https://imgx.fubo.tv/station_logos/fs1_c.png" group-title="USA TV",FOX Sports 1
 http://thevdm.xyz:25461/Jennifer/Year!/20052
-#EXTINF:-1  tvg-id="FoxSports2.us" tvg-name="FOX Sports 2" tvg-logo="https://imgx.fubo.tv/station_logos/fs2_c.png" group-title="SPORTS CENTER",FOX Sports 2
+#EXTINF:-1  tvg-id="FoxSports2.us" tvg-name="FOX Sports 2" tvg-logo="https://imgx.fubo.tv/station_logos/fs2_c.png" group-title="USA TV",FOX Sports 2
 http://thevdm.xyz:25461/Jennifer/Year!/20053
 #EXTINF:-1  tvg-id="FOXSports2.mx" tvg-name="FOX SPORTS 2 ES" tvg-logo="" group-title="SPANISH CHANNELS",FOX SPORTS 2 ES
 http://thevdm.xyz:25461/Jennifer/Year!/19900
@@ -1529,23 +1529,23 @@ http://thevdm.xyz:25461/Jennifer/Year!/19900
 http://thevdm.xyz:25461/Jennifer/Year!/19899
 #EXTINF:-1  tvg-id="FOXSports.mx" tvg-name="FOX SPORTS ES" tvg-logo="" group-title="SPANISH CHANNELS",FOX SPORTS ES
 http://thevdm.xyz:25461/Jennifer/Year!/19901
-#EXTINF:-1  tvg-id="" tvg-name="FOX SPORTS RACING" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/fsracing.png" group-title="SPORTS CENTER",FOX SPORTS RACING
+#EXTINF:-1  tvg-id="" tvg-name="FOX SPORTS RACING" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/fsracing.png" group-title="USA TV",FOX SPORTS RACING
 http://thevdm.xyz:25461/Jennifer/Year!/20071
-#EXTINF:-1  tvg-id="LonghornNetwork.us" tvg-name="LONGHORN NETWORK" tvg-logo="" group-title="SPORTS CENTER",LONGHORN NETWORK
+#EXTINF:-1  tvg-id="LonghornNetwork.us" tvg-name="LONGHORN NETWORK" tvg-logo="" group-title="USA TV",LONGHORN NETWORK
 http://thevdm.xyz:25461/Jennifer/Year!/20087
 #EXTINF:-1  tvg-id="LonghornNetwork.us" tvg-name="Longhorn Network FHD" tvg-logo="https://i.ibb.co/J7T9wkk/longhorn-network.png" group-title="US CHANNELS FHD",Longhorn Network FHD
 http://thevdm.xyz:25461/Jennifer/Year!/31439
 #EXTINF:-1  tvg-id="marqueesportsnetwork.us" tvg-name="Marquee Sports Nerwork" tvg-logo="https://i.ibb.co/z7WBFBv/marquee-sports-network.png" group-title="MLB",Marquee Sports Nerwork
 http://thevdm.xyz:25461/Jennifer/Year!/37829
-#EXTINF:-1  tvg-id="MavTV.us" tvg-name="Mav TV" tvg-logo="https://imgx.fubo.tv/station_logos/mavtv_c.png" group-title="SPORTS CENTER",Mav TV
+#EXTINF:-1  tvg-id="MavTV.us" tvg-name="Mav TV" tvg-logo="https://imgx.fubo.tv/station_logos/mavtv_c.png" group-title="USA TV",Mav TV
 http://thevdm.xyz:25461/Jennifer/Year!/20088
-#EXTINF:-1  tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area" tvg-logo="https://imgx.fubo.tv/station_logos/nbc-sports-bay-area_c.png" group-title="SPORTS CENTER",NBC Sports Bay Area
+#EXTINF:-1  tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area" tvg-logo="https://imgx.fubo.tv/station_logos/nbc-sports-bay-area_c.png" group-title="USA TV",NBC Sports Bay Area
 http://thevdm.xyz:25461/Jennifer/Year!/20095
-#EXTINF:-1  tvg-id="NBCSportsCaliforniaPlus.us" tvg-name="NBC Sports Bay Area+" tvg-logo="https://imgx.fubo.tv/station_logos/nbc-sports-bay-area-plus_c.png" group-title="SPORTS CENTER",NBC Sports Bay Area+
+#EXTINF:-1  tvg-id="NBCSportsCaliforniaPlus.us" tvg-name="NBC Sports Bay Area+" tvg-logo="https://imgx.fubo.tv/station_logos/nbc-sports-bay-area-plus_c.png" group-title="USA TV",NBC Sports Bay Area+
 http://thevdm.xyz:25461/Jennifer/Year!/20096
-#EXTINF:-1  tvg-id="NBCSportsBoston.us" tvg-name="NBC Sports Boston" tvg-logo="http://epg.justco.cc/guide/logos/us/NBCSportsBoston.us.png" group-title="SPORTS CENTER",NBC Sports Boston
+#EXTINF:-1  tvg-id="NBCSportsBoston.us" tvg-name="NBC Sports Boston" tvg-logo="http://epg.justco.cc/guide/logos/us/NBCSportsBoston.us.png" group-title="USA TV",NBC Sports Boston
 http://thevdm.xyz:25461/Jennifer/Year!/20097
-#EXTINF:-1  tvg-id="NBCSportsCalifornia.us" tvg-name="NBC Sports California" tvg-logo="https://imgx.fubo.tv/station_logos/nbc-sports-california_c.png" group-title="SPORTS CENTER",NBC Sports California
+#EXTINF:-1  tvg-id="NBCSportsCalifornia.us" tvg-name="NBC Sports California" tvg-logo="https://imgx.fubo.tv/station_logos/nbc-sports-california_c.png" group-title="USA TV",NBC Sports California
 http://thevdm.xyz:25461/Jennifer/Year!/20098
 #EXTINF:-1  tvg-id="UNIVERSO.us" tvg-name="NBC Universo (East)" tvg-logo="https://imgx.fubo.tv/station_logos/nbc_universo_c.png" group-title="SPANISH CHANNELS",NBC Universo (East)
 http://thevdm.xyz:25461/Jennifer/Year!/19938
