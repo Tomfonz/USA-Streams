@@ -1024,7 +1024,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/86007
 http://thevdm.xyz:25461/Jennifer/Year!/86817
 #EXTINF:-1  tvg-id="TBS" tvg-name="(L) TBS" tvg-logo="https://imgx.fubo.tv/station_logos/tbs_c.png" group-title="USA TV- Alternative streams",(L) TBS
 http://thevdm.xyz:25461/Jennifer/Year!/44181
-#EXTINF:-1  tvg-id="TBS HD" tvg-name="TBS FHD" tvg-logo="https://imgx.fubo.tv/station_logos/tbs_c.png" group-title="US CHANNELS FHD",TBS FHD
+#EXTINF:-1  tvg-id="TBS HD" tvg-name="TBS FHD" tvg-logo="https://imgx.fubo.tv/station_logos/tbs_c.png" group-title="USA TV",TBS FHD
 http://thevdm.xyz:25461/Jennifer/Year!/31462
 
 Good channels:
@@ -1188,7 +1188,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/44081
 http://thevdm.xyz:25461/Jennifer/Year!/44082
 #EXTINF:-1  tvg-id="MavTV.us" tvg-name="(L) Mav TV" tvg-logo="https://imgx.fubo.tv/station_logos/mavtv_c.png" group-title="USA TV- Alternative streams",(L) Mav TV
 http://thevdm.xyz:25461/Jennifer/Year!/44083
-#EXTINF:-1  tvg-id="MLBNetwork.us" tvg-name="(L) MLB Network" tvg-logo="" group-title="USA TV- Alternative streams",(L) MLB Network
+#EXTINF:-1  tvg-id="USA TVNetwork.us" tvg-name="(L) USA TV Network" tvg-logo="" group-title="USA TV- Alternative streams",(L) USA TV Network
 http://thevdm.xyz:25461/Jennifer/Year!/44084
 #EXTINF:-1  tvg-id="MOTORTREND.us" tvg-name="(L) MotorTrend" tvg-logo="https://imgx.fubo.tv/station_logos/motortrend_c.png" group-title="USA TV- Alternative streams",(L) MotorTrend
 http://thevdm.xyz:25461/Jennifer/Year!/44085
@@ -1365,8 +1365,6 @@ Movies:
 http://thevdm.xyz:25461/Jennifer/Year!/52157
 #EXTINF:-1  tvg-id="CineMAXPacific.us" tvg-name="Cinemax West" tvg-logo="https://i.ibb.co/h810dLX/cinemax-us.png" group-title="MOVIE NETWORKS",Cinemax West
 http://thevdm.xyz:25461/Jennifer/Year!/52158
-#EXTINF:-1  tvg-id="CinemaxSpanish.us" tvg-name="Cinemax Latino" tvg-logo="https://cdn.diablo.ltd/logos/CinemaxLatinoUS.png" group-title="MOVIE NETWORKS",Cinemax Latino
-http://thevdm.xyz:25461/Jennifer/Year!/52159
 #EXTINF:-1  tvg-id="Cinemax5StarMAX.us" tvg-name="5StarMax" tvg-logo="https://i.ibb.co/dBPShyM/cinemax-5-starmax.png" group-title="MOVIE NETWORKS",5StarMax
 http://thevdm.xyz:25461/Jennifer/Year!/52160
 #EXTINF:-1  tvg-id="ActionMAX.us" tvg-name="ActionMax" tvg-logo="https://i.ibb.co/jrDBL5v/cinemax-actionmax.png" group-title="MOVIE NETWORKS",ActionMax
@@ -1509,13 +1507,11 @@ http://thevdm.xyz:25461/Jennifer/Year!/20045
 http://thevdm.xyz:25461/Jennifer/Year!/20046
 #EXTINF:-1  tvg-id="ESPNEWS.us" tvg-name="ESPN NEWS" tvg-logo="https://www.dropbox.com/s/oyyjamkfumrqfhd/ESPNews.png?dl=1" group-title="USA TV",ESPN NEWS
 http://thevdm.xyz:25461/Jennifer/Year!/20047
-#EXTINF:-1  tvg-id="ESPNExtra.mx" tvg-name="ESPN Extra" tvg-logo="" group-title="SPANISH CHANNELS",ESPN Extra
-http://thevdm.xyz:25461/Jennifer/Year!/19887
 #EXTINF:-1  tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-logo="https://www.dropbox.com/s/ik9pntw8sk38iix/ESPN_U.png?dl=1" group-title="USA TV",ESPN U
 http://thevdm.xyz:25461/Jennifer/Year!/20048
-#EXTINF:-1  tvg-id="ESPNU.us" tvg-name="ESPN U FHD " tvg-logo="https://i.ibb.co/7rfzkNv/espnu.png" group-title="US CHANNELS FHD",ESPN U FHD 
+#EXTINF:-1  tvg-id="ESPNU.us" tvg-name="ESPN U FHD " tvg-logo="https://i.ibb.co/7rfzkNv/espnu.png" group-title="USA TV",ESPN U FHD 
 http://thevdm.xyz:25461/Jennifer/Year!/31413
-#EXTINF:-1  tvg-id="ESPNEWS.us" tvg-name="ESPNEWS FHD" tvg-logo="https://i.ibb.co/zhPfprg/espnews.png" group-title="US CHANNELS FHD",ESPNEWS FHD
+#EXTINF:-1  tvg-id="ESPNEWS.us" tvg-name="ESPNEWS FHD" tvg-logo="https://i.ibb.co/zhPfprg/espnews.png" group-title="USA TV",ESPNEWS FHD
 http://thevdm.xyz:25461/Jennifer/Year!/31412
 #EXTINF:-1  tvg-id="FoxSoccerPlus.us" tvg-name="FOX Soccer Plus" tvg-logo="https://imgx.fubo.tv/station_logos/fox_soccer_plus_c.png" group-title="USA TV",FOX Soccer Plus
 http://thevdm.xyz:25461/Jennifer/Year!/20051
@@ -1523,19 +1519,13 @@ http://thevdm.xyz:25461/Jennifer/Year!/20051
 http://thevdm.xyz:25461/Jennifer/Year!/20052
 #EXTINF:-1  tvg-id="FoxSports2.us" tvg-name="FOX Sports 2" tvg-logo="https://imgx.fubo.tv/station_logos/fs2_c.png" group-title="USA TV",FOX Sports 2
 http://thevdm.xyz:25461/Jennifer/Year!/20053
-#EXTINF:-1  tvg-id="FOXSports2.mx" tvg-name="FOX SPORTS 2 ES" tvg-logo="" group-title="SPANISH CHANNELS",FOX SPORTS 2 ES
-http://thevdm.xyz:25461/Jennifer/Year!/19900
-#EXTINF:-1  tvg-id="FOXSports3.mx" tvg-name="FOX SPORTS 3 ES" tvg-logo="" group-title="SPANISH CHANNELS",FOX SPORTS 3 ES
-http://thevdm.xyz:25461/Jennifer/Year!/19899
-#EXTINF:-1  tvg-id="FOXSports.mx" tvg-name="FOX SPORTS ES" tvg-logo="" group-title="SPANISH CHANNELS",FOX SPORTS ES
-http://thevdm.xyz:25461/Jennifer/Year!/19901
 #EXTINF:-1  tvg-id="" tvg-name="FOX SPORTS RACING" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/fsracing.png" group-title="USA TV",FOX SPORTS RACING
 http://thevdm.xyz:25461/Jennifer/Year!/20071
 #EXTINF:-1  tvg-id="LonghornNetwork.us" tvg-name="LONGHORN NETWORK" tvg-logo="" group-title="USA TV",LONGHORN NETWORK
 http://thevdm.xyz:25461/Jennifer/Year!/20087
-#EXTINF:-1  tvg-id="LonghornNetwork.us" tvg-name="Longhorn Network FHD" tvg-logo="https://i.ibb.co/J7T9wkk/longhorn-network.png" group-title="US CHANNELS FHD",Longhorn Network FHD
+#EXTINF:-1  tvg-id="LonghornNetwork.us" tvg-name="Longhorn Network FHD" tvg-logo="https://i.ibb.co/J7T9wkk/longhorn-network.png" group-title="USA TV",Longhorn Network FHD
 http://thevdm.xyz:25461/Jennifer/Year!/31439
-#EXTINF:-1  tvg-id="marqueesportsnetwork.us" tvg-name="Marquee Sports Nerwork" tvg-logo="https://i.ibb.co/z7WBFBv/marquee-sports-network.png" group-title="MLB",Marquee Sports Nerwork
+#EXTINF:-1  tvg-id="marqueesportsnetwork.us" tvg-name="Marquee Sports Nerwork" tvg-logo="https://i.ibb.co/z7WBFBv/marquee-sports-network.png" group-title="USA TV",Marquee Sports Nerwork
 http://thevdm.xyz:25461/Jennifer/Year!/37829
 #EXTINF:-1  tvg-id="MavTV.us" tvg-name="Mav TV" tvg-logo="https://imgx.fubo.tv/station_logos/mavtv_c.png" group-title="USA TV",Mav TV
 http://thevdm.xyz:25461/Jennifer/Year!/20088
@@ -1547,59 +1537,43 @@ http://thevdm.xyz:25461/Jennifer/Year!/20096
 http://thevdm.xyz:25461/Jennifer/Year!/20097
 #EXTINF:-1  tvg-id="NBCSportsCalifornia.us" tvg-name="NBC Sports California" tvg-logo="https://imgx.fubo.tv/station_logos/nbc-sports-california_c.png" group-title="USA TV",NBC Sports California
 http://thevdm.xyz:25461/Jennifer/Year!/20098
-#EXTINF:-1  tvg-id="UNIVERSO.us" tvg-name="NBC Universo (East)" tvg-logo="https://imgx.fubo.tv/station_logos/nbc_universo_c.png" group-title="SPANISH CHANNELS",NBC Universo (East)
-http://thevdm.xyz:25461/Jennifer/Year!/19938
-#EXTINF:-1  tvg-id="Universo.us" tvg-name="NBC Universo (West)" tvg-logo="https://imgx.fubo.tv/station_logos/nbc_universo_c.png" group-title="SPANISH CHANNELS",NBC Universo (West)
-http://thevdm.xyz:25461/Jennifer/Year!/19939
-#EXTINF:-1  tvg-id="espn.us" tvg-name="NCAAB 01: ESPN" tvg-logo="" group-title="NCAAB",NCAAB 01: ESPN
-http://thevdm.xyz:25461/Jennifer/Year!/32296
-#EXTINF:-1  tvg-id="espn2.us" tvg-name="NCAAB 02: ESPN 2" tvg-logo="" group-title="NCAAB",NCAAB 02: ESPN 2
-http://thevdm.xyz:25461/Jennifer/Year!/32297
-#EXTINF:-1  tvg-id="espnu.us" tvg-name="NCAAB 03: ESPNU" tvg-logo="" group-title="NCAAB",NCAAB 03: ESPNU
-http://thevdm.xyz:25461/Jennifer/Year!/32298
-#EXTINF:-1  tvg-id="espnnews.us" tvg-name="NCAAB 04: ESPN News" tvg-logo="" group-title="NCAAB",NCAAB 04: ESPN News
-http://thevdm.xyz:25461/Jennifer/Year!/32299
-#EXTINF:-1  tvg-id="accnetwork.us" tvg-name="NCAAB 05: ACC Network" tvg-logo="" group-title="NCAAB",NCAAB 05: ACC Network
-http://thevdm.xyz:25461/Jennifer/Year!/32346
-#EXTINF:-1  tvg-id="secnetwork.us" tvg-name="NCAAB 06: SEC Network" tvg-logo="" group-title="NCAAB",NCAAB 06: SEC Network
-http://thevdm.xyz:25461/Jennifer/Year!/32347
 #EXTINF:-1  tvg-id="nflredzone.us" tvg-name="US: NFL Red Zone" tvg-logo="http://app.lam18.com/posters/1510731166193.jpg" group-title="NFL HD",US: NFL Red Zone
 http://thevdm.xyz:25461/Jennifer/Year!/76904
-#EXTINF:-1  tvg-id="NFLHD" tvg-name="NFL NETWORK" tvg-logo="http://fanc.tmsimg.com/assets/s45399_ll_h3_aa.png" group-title="NFL FHD",NFL NETWORK
+#EXTINF:-1  tvg-id="NFLHD" tvg-name="NFL NETWORK" tvg-logo="http://fanc.tmsimg.com/assets/s45399_ll_h3_aa.png" group-title="USA TV",NFL NETWORK
 http://thevdm.xyz:25461/Jennifer/Year!/76962
-#EXTINF:-1  tvg-id="NFLNRZD" tvg-name="NFL REDZONE" tvg-logo="http://fanc.tmsimg.com/assets/s65025_ll_h3_aa.png" group-title="NFL FHD",NFL REDZONE
+#EXTINF:-1  tvg-id="NFLNRZD" tvg-name="NFL REDZONE" tvg-logo="http://fanc.tmsimg.com/assets/s65025_ll_h3_aa.png" group-title="USA TV",NFL REDZONE
 http://thevdm.xyz:25461/Jennifer/Year!/76963
-#EXTINF:-1  tvg-id="0.NFL" tvg-name="NFL 00" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 00
+#EXTINF:-1  tvg-id="0.NFL" tvg-name="NFL 00" tvg-logo="" group-title="USA TV",NFL 00
 http://thevdm.xyz:25461/Jennifer/Year!/76989
-#EXTINF:-1  tvg-id="1.NFL" tvg-name="NFL 01" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 01
+#EXTINF:-1  tvg-id="1.NFL" tvg-name="NFL 01" tvg-logo="" group-title="USA TV",NFL 01
 http://thevdm.xyz:25461/Jennifer/Year!/76990
-#EXTINF:-1  tvg-id="2.NFL" tvg-name="NFL 02" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 02
+#EXTINF:-1  tvg-id="2.NFL" tvg-name="NFL 02" tvg-logo="" group-title="USA TV",NFL 02
 http://thevdm.xyz:25461/Jennifer/Year!/76991
-#EXTINF:-1  tvg-id="3.NFL" tvg-name="NFL 03" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 03
+#EXTINF:-1  tvg-id="3.NFL" tvg-name="NFL 03" tvg-logo="" group-title="USA TV",NFL 03
 http://thevdm.xyz:25461/Jennifer/Year!/76992
-#EXTINF:-1  tvg-id="4.NFL" tvg-name="NFL 04" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 04
+#EXTINF:-1  tvg-id="4.NFL" tvg-name="NFL 04" tvg-logo="" group-title="USA TV",NFL 04
 http://thevdm.xyz:25461/Jennifer/Year!/76993
-#EXTINF:-1  tvg-id="5.NFL" tvg-name="NFL 05" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 05
+#EXTINF:-1  tvg-id="5.NFL" tvg-name="NFL 05" tvg-logo="" group-title="USA TV",NFL 05
 http://thevdm.xyz:25461/Jennifer/Year!/76994
-#EXTINF:-1  tvg-id="6.NFL" tvg-name="NFL 06" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 06
+#EXTINF:-1  tvg-id="6.NFL" tvg-name="NFL 06" tvg-logo="" group-title="USA TV",NFL 06
 http://thevdm.xyz:25461/Jennifer/Year!/76995
-#EXTINF:-1  tvg-id="7.NFL" tvg-name="NFL 07" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 07
+#EXTINF:-1  tvg-id="7.NFL" tvg-name="NFL 07" tvg-logo="" group-title="USA TV",NFL 07
 http://thevdm.xyz:25461/Jennifer/Year!/76996
-#EXTINF:-1  tvg-id="8.NFL" tvg-name="NFL 08" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 08
+#EXTINF:-1  tvg-id="8.NFL" tvg-name="NFL 08" tvg-logo="" group-title="USA TV",NFL 08
 http://thevdm.xyz:25461/Jennifer/Year!/76997
-#EXTINF:-1  tvg-id="9.NFL" tvg-name="NFL 09" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 09
+#EXTINF:-1  tvg-id="9.NFL" tvg-name="NFL 09" tvg-logo="" group-title="USA TV",NFL 09
 http://thevdm.xyz:25461/Jennifer/Year!/76998
-#EXTINF:-1  tvg-id="10.NFL" tvg-name="NFL 10" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 10
+#EXTINF:-1  tvg-id="10.NFL" tvg-name="NFL 10" tvg-logo="" group-title="USA TV",NFL 10
 http://thevdm.xyz:25461/Jennifer/Year!/76999
-#EXTINF:-1  tvg-id="11.NFL" tvg-name="NFL 11" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 11
+#EXTINF:-1  tvg-id="11.NFL" tvg-name="NFL 11" tvg-logo="" group-title="USA TV",NFL 11
 http://thevdm.xyz:25461/Jennifer/Year!/77000
-#EXTINF:-1  tvg-id="12.NFL" tvg-name="NFL 12" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 12
+#EXTINF:-1  tvg-id="12.NFL" tvg-name="NFL 12" tvg-logo="" group-title="USA TV",NFL 12
 http://thevdm.xyz:25461/Jennifer/Year!/77001
-#EXTINF:-1  tvg-id="13.NFL" tvg-name="NFL 13" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 13
+#EXTINF:-1  tvg-id="13.NFL" tvg-name="NFL 13" tvg-logo="" group-title="USA TV",NFL 13
 http://thevdm.xyz:25461/Jennifer/Year!/77002
-#EXTINF:-1  tvg-id="" tvg-name="NFL 14" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 14
+#EXTINF:-1  tvg-id="" tvg-name="NFL 14" tvg-logo="" group-title="USA TV",NFL 14
 http://thevdm.xyz:25461/Jennifer/Year!/77003
-#EXTINF:-1  tvg-id="" tvg-name="NFL 15" tvg-logo="" group-title="NFL LOW BANDWIDTH",NFL 15
+#EXTINF:-1  tvg-id="" tvg-name="NFL 15" tvg-logo="" group-title="USA TV",NFL 15
 http://thevdm.xyz:25461/Jennifer/Year!/77004
 
 
