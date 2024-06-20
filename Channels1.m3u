@@ -74,7 +74,7 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/296931
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1120
 #EXTINF:-1 group-title="UK-VPN" tvg-id=" Channel 5",Channel 5
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1119
-#EXTINF:-1 group-title="UK-VPN" tvg-id=" BBC America", BBC USA 
+#EXTINF:-1 group-title="UK-VPN" tvg-id="BBCAmericaEast.us", BBC USA 
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/302390
 #EXTINF:-1 group-title="UK-VPN" tvg-id=" Sky One HD", Sky One HD
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1080
@@ -569,7 +569,7 @@ http://170.254.18.106/AMC/index.m3u8
 http://ufospeeds.com:2095/73622931496/7122224796/167
 #EXTINF:-1  tvg-id="AMCPlus.us" tvg-name="AMC Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/AMC%2B_logo.png" group-title="USA-A- No VPN",AMC Plus
 http://thevdm.xyz:25461/Jennifer/Year!/31382
-#EXTINF:-1  tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BBC_America_logo_2021.svg" group-title="USA-A- No VPN",BBC America
+#EXTINF:-1  tvg-id="BBCAmericaEast.us" tvg-name="BBC America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BBC_America_logo_2021.svg" group-title="USA-A- No VPN",BBC America
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1  tvg-id="beINSports.us" tvg-name="beIN Sports HD" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="USA-A- No VPN",beIN Sports
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
@@ -930,10 +930,8 @@ http://thevdm.xyz:25461/Jennifer/Year!/43991
 http://thevdm.xyz:25461/Jennifer/Year!/43992
 #EXTINF:-1  tvg-id="AXSTV.us" tvg-name="  AXS TV" tvg-logo="" group-title="USA-C-VPN",  AXS TV
 http://thevdm.xyz:25461/Jennifer/Year!/43993
-#EXTINF:-1  tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="https://imgx.fubo.tv/station_logos/bbc-america_c.png" group-title="USA-C-VPN",  BBC America
+#EXTINF:-1  tvg-id="BBCAmericaEast.us" tvg-name="BBC America" tvg-logo="https://imgx.fubo.tv/station_logos/bbc-america_c.png" group-title="USA-C-VPN",  BBC America
 http://thevdm.xyz:25461/Jennifer/Year!/43995
-#EXTINF:-1  tvg-id="BBCWorldNews.us" tvg-name="BBC World News" tvg-logo="https://imgx.fubo.tv/station_logos/bbc-news_c.png" group-title="USA-C-VPN",  BBC World News
-http://thevdm.xyz:25461/Jennifer/Year!/43996
 #EXTINF:-1  tvg-id="beINSports.us" tvg-name="  beIN SPORTS" tvg-logo="https://imgx.fubo.tv/station_logos/bein_sports_english_c.png" group-title="USA-C-VPN",  beIN SPORTS
 http://thevdm.xyz:25461/Jennifer/Year!/43997
 #EXTINF:-1  tvg-id="BET.us" tvg-name="  BET" tvg-logo="https://imgx.fubo.tv/station_logos/bet_c.png" group-title="USA-C-VPN",  BET
