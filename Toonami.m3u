@@ -1,0 +1,25 @@
+#EXTM3U url-tvg="http://ufospeeds.com:2095/xmltv.php?username=73622931496&password=7122224796,http://thevdm.xyz:25461/xmltv.php?username=Jennifer&password=Year!,http://6oclock.xyz/xmltv.php?username=GY5ab4se80&password=hP2xh5C63e,http://hdhd.tk/xmltv.php?username=Ford&password=Ford,http://myteve.online:8080/xmltv.php?username=GenIptv2023&password=XkgMCdR7PJzShK5m,http://ather.nicgoto.xyz/xmltv.php?username=NN3QD4UM53&password=4BXUC44ntGNE"
+#EXTINF:-1  tvg-id="0" tvg-name="0" tvg-logo="@+$:*3" group-title="IMPORTANT INFOMATION",IMPORTANT INFORMATION
+https://small.fileditchstuff.me/s11/EWmLXPkMncFhDONTEkqC.mp4
+
+Toonami
+#EXTINF:-1  group-title="Toonami" tvg-id="Toonami Est",Toonami Aftermath Est
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1  group-title="Toonami" tvg-id="Toonami Pst",Toonami Aftermath Pst
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
+#EXTINF:-1  group-title="Toonami" tvg-id="Toonami Movies",Toonami Aftermath Movies
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+#EXTINF:-1  tvg-id="CartoonNetworkEast.us" tvg-name="Adult Swim East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="Toonami",Adult Swim East
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/AdultSwimEast.us.m3u8
+#EXTINF:-1  tvg-id="CartoonNetworkWest.us" tvg-name="Adult Swim West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="Toonami",Adult Swim West
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/AdultSwimWest.us.m3u8
+#EXTINF:-1  group-title="Toonami" tvg-id="Venture Bros",The Venture Brothers 
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_4.m3u8
+#EXTINF:-1  group-title="Toonami" tvg-id="AdultSwimRobotChicken.us",Adult Swim Robot Chicken (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+#EXTINF:-1  group-title="Toonami" tvg-id="RetroCrush", Retro Crush 720p
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-retrocrush-lgus/playlist.m3u8
+#EXTINF:-1  group-title="Toonami" tvg-id="Adult Swim USA", Adult Swim USA
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/301841
+#EXTINF:-1  group-title="Toonami" tvg-id="Adult Swim CA", Adult Swim Canada
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/9218
