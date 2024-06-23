@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="http://ufospeeds.com:2095/xmltv.php?username=73622931496&password=7122224796,http://thevdm.xyz:25461/xmltv.php?username=Jennifer&password=Year!,http://6oclock.xyz/xmltv.php?username=GY5ab4se80&password=hP2xh5C63e,http://hdhd.tk/xmltv.php?username=Ford&password=Ford,http://myteve.online:8080/xmltv.php?username=GenIptv2023&password=XkgMCdR7PJzShK5m,http://ather.nicgoto.xyz/xmltv.php?username=NN3QD4UM53&password=4BXUC44ntGNE"
 UK Sports
+#EXTINF:-1 group-title="UK-VPN" tvg-id=" Sky Sports F1", Sky Sports F1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/265
 #EXTINF:-1 group-title="UK-VPN" tvg-id=" Sky Sports Action", Sky Sports Action
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/268
 #EXTINF:-1 group-title="UK-VPN" tvg-id=" Sky Sports Arena" Sky Sports Arena
@@ -8,8 +10,6 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/267
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/286318
 #EXTINF:-1 group-title="UK-VPN" tvg-id=" Sky Sports Cricket", Sky Sports Cricket
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/269
-#EXTINF:-1 group-title="UK-VPN" tvg-id=" Sky Sports F1", Sky Sports F1
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/265
 #EXTINF:-1 group-title="UK-VPN" tvg-id="Sky Sports Football", Sky Sports Football
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/266
 #EXTINF:-1 group-title="UK-VPN" tvg-id=" Sky Sports Golf", SKy Sports Golf
