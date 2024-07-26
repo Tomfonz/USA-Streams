@@ -24,6 +24,58 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/301841
 #EXTINF:-1  group-title="Toonami" tvg-id="Adult Swim CA", Adult Swim Canada
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/9218
 
+Pluto TV Streams (USA)
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml"
+#EXTINF:-1 channel-id="pluto-5ba3fb9c4b078e0f37ad34e8" tvg-id="5ba3fb9c4b078e0f37ad34e8" tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png" tvg-chno="10" group-title="Movies" , Pluto TV Spotlight
+https://jmp2.uk/PlutoTV/5ba3fb9c4b078e0f37ad34e8-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-64b585f84ea480000838e446" tvg-id="64b585f84ea480000838e446" tvg-logo="https://images.pluto.tv/channels/64b585f84ea480000838e446/colorLogoPNG.png" tvg-chno="20" group-title="Movies" , Pluto TV Icons
+https://jmp2.uk/PlutoTV/64b585f84ea480000838e446-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-561d7d484dc7c8770484914a" tvg-id="561d7d484dc7c8770484914a" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" tvg-chno="30" group-title="Movies" , Pluto TV Action
+https://jmp2.uk/PlutoTV/561d7d484dc7c8770484914a-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-617b37b361e0fd0008cfd8c5" tvg-id="617b37b361e0fd0008cfd8c5" tvg-logo="https://images.pluto.tv/channels/617b37b361e0fd0008cfd8c5/colorLogoPNG.png" tvg-chno="40" group-title="Movies" , Pluto TV Reaction
+https://jmp2.uk/PlutoTV/617b37b361e0fd0008cfd8c5-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5a4d3a00ad95e4718ae8d8db" tvg-id="5a4d3a00ad95e4718ae8d8db" tvg-logo="https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/colorLogoPNG.png" tvg-chno="50" group-title="Movies" , Pluto TV Comedy
+https://jmp2.uk/PlutoTV/5a4d3a00ad95e4718ae8d8db-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5b4e92e4694c027be6ecece1" tvg-id="5b4e92e4694c027be6ecece1" tvg-logo="https://images.pluto.tv/channels/5b4e92e4694c027be6ecece1/colorLogoPNG.png" tvg-chno="60" group-title="Movies" , Pluto TV Drama
+https://jmp2.uk/PlutoTV/5b4e92e4694c027be6ecece1-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5b64a245a202b3337f09e51d" tvg-id="5b64a245a202b3337f09e51d" tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG.png" tvg-chno="70" group-title="Movies" , Pluto TV Fantastic
+https://jmp2.uk/PlutoTV/5b64a245a202b3337f09e51d-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5a66795ef91fef2c7031c599" tvg-id="5a66795ef91fef2c7031c599" tvg-logo="https://images.pluto.tv/channels/5a66795ef91fef2c7031c599/colorLogoPNG.png" tvg-chno="80" group-title="Movies" , Pluto TV Romance
+https://jmp2.uk/PlutoTV/5a66795ef91fef2c7031c599-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f4d8594eb979c0007706de7" tvg-id="5f4d8594eb979c0007706de7" tvg-logo="https://images.pluto.tv/channels/5f4d8594eb979c0007706de7/colorLogoPNG.png" tvg-chno="90" group-title="Movies" , Pluto TV Crime Movies
+https://jmp2.uk/PlutoTV/5f4d8594eb979c0007706de7-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5b4e69e08291147bd04a9fd7" tvg-id="5b4e69e08291147bd04a9fd7" tvg-logo="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/colorLogoPNG.png" tvg-chno="100" group-title="Movies" , Pluto TV Thrillers
+https://jmp2.uk/PlutoTV/5b4e69e08291147bd04a9fd7-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-569546031a619b8f07ce6e25" tvg-id="569546031a619b8f07ce6e25" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" tvg-chno="110" group-title="Movies" , Pluto TV Horror
+https://jmp2.uk/PlutoTV/569546031a619b8f07ce6e25-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5c6dc88fcd232425a6e0f06e" tvg-id="5c6dc88fcd232425a6e0f06e" tvg-logo="https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png" tvg-chno="120" group-title="Movies" , Pluto TV Terror
+https://jmp2.uk/PlutoTV/5c6dc88fcd232425a6e0f06e-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-645e7828e1979c00087b75b4" tvg-id="645e7828e1979c00087b75b4" tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png" tvg-chno="140" group-title="Movies" , MovieSphere by Lionsgate
+https://jmp2.uk/PlutoTV/645e7828e1979c00087b75b4-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f4d863b98b41000076cd061" tvg-id="5f4d863b98b41000076cd061" tvg-logo="https://images.pluto.tv/channels/5f4d863b98b41000076cd061/colorLogoPNG.png" tvg-chno="150" group-title="Movies" , Pluto TV Staff Picks
+https://jmp2.uk/PlutoTV/5f4d863b98b41000076cd061-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5b85a7582921777994caea63" tvg-id="5b85a7582921777994caea63" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG.png" tvg-chno="155" group-title="Movies" , Pluto TV Documentaries
+https://jmp2.uk/PlutoTV/5b85a7582921777994caea63-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-62ba60f059624e000781c436" tvg-id="62ba60f059624e000781c436" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" tvg-chno="160" group-title="Movies" , 00s Replay
+https://jmp2.uk/PlutoTV/62ba60f059624e000781c436-alt.m3u8
+
+
+
 Canada TV
 #EXTINF:-1  group-title="Canada" tvg-id="AMC", AMC
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/503
