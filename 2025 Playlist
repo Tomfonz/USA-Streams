@@ -24,19 +24,19 @@ FOX
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 
 TBS 
-#EXTINF:-1  tvg-id="TBSEast.us" tvg-name="TBS" tvg-logo="https://imgx.fubo.tv/station_logos/tbs_c.png" group-title="USA",  TBS
+#EXTINF:-1  tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://imgx.fubo.tv/station_logos/tbs_c.png" group-title="USA",  TBS
 http://thevdm.xyz:25461/Jennifer/Year!/44181
-#EXTINF:-1  tvg-id="TBSEast.us" tvg-name="TBS 2" tvg-logo="https://imgx.fubo.tv/station_logos/tbs_c.png" group-title="USA",  TBS
+#EXTINF:-1  tvg-id="TBS.us" tvg-name="TBS 2" tvg-logo="https://imgx.fubo.tv/station_logos/tbs_c.png" group-title="USA",  TBS
 https://streamer1.nexgen.bz/TBS/index.m3u8
 
 Comedy Central 
-#EXTINF:-1  tvg-id="ComedyCentralEast.us" tvg-name="Comedy Central" tvg-logo="https://imgx.fubo.tv/station_logos/comedy_central_c.png" group-title="USA",  Comedy Central
+#EXTINF:-1  tvg-id="Comedy Central.us" tvg-name="Comedy Central" tvg-logo="https://imgx.fubo.tv/station_logos/comedy_central_c.png" group-title="USA",  Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 
 MTV
-#EXTINF:-1  tvg-id="MTV.us" tvg-name="MTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="USA-A- No VPN",MTV East
+#EXTINF:-1  tvg-id="MTV.us" tvg-name="MTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="USA",MTV East
 https://fl2.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1  tvg-id="MTV.us" tvg-name="MTV1 -2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="USA-A- No VPN",MTV East
+#EXTINF:-1  tvg-id="MTV.us" tvg-name="MTV1 -2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="USA",MTV East
 https://fl2.moveonjoy.com/MTV/index.m3u8
 
 E-Entertainment 
