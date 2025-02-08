@@ -24,7 +24,7 @@ FOX
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 
 TBS 
-#EXTINF:-1  tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://imgx.fubo.tv/station_logos/tbs_c.png" group-title="USA",  TBS
+#EXTINF:-1  tvg-id="TBS Superstation (East).us" tvg-name="TBS" tvg-logo="https://imgx.fubo.tv/station_logos/tbs_c.png" group-title="USA",  TBS
 http://thevdm.xyz:25461/Jennifer/Year!/44181
 #EXTINF:-1  tvg-id="TBS.us" tvg-name="TBS 2" tvg-logo="https://imgx.fubo.tv/station_logos/tbs_c.png" group-title="USA",  TBS
 https://streamer1.nexgen.bz/TBS/index.m3u8
